@@ -1,0 +1,15 @@
+{
+  "factory_hr": 0,
+  "adapter_hr": 0,
+  "output_hr": 0,
+  "output1_hr": 0,
+  "device_hr": 0,
+  "duplicate_output_hr": 0,
+  "duplication_interface_obtained": 1,
+  "frame_acquisition_attempted": false,
+  "resources_released": true,
+  "run_id": "a7cb2c257ab741d6a9dd9607c5c9f952",
+  "box_active_processes": 0,
+  "scope": "DuplicateOutput interface creation only, no AcquireNextFrame or pixel access",
+  "isolation_status": "NOT_BLOCKED_AT_INTERFACE_CREATION"
+}

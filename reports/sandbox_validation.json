@@ -1,0 +1,72 @@
+{
+  "verdict": "ISOLATION_NOT_QUALIFIED",
+  "system_action": "REQUIRES_USER_ACTION",
+  "engine_version_candidate": "Sandboxie Plus 1.18.5",
+  "tests": [
+    {
+      "boundary": "host file writes redirected",
+      "status": "NOT_TESTED",
+      "reason": "No installed Sandboxie driver/service; candidate is disabled"
+    },
+    {
+      "boundary": "staging bytes unchanged under sandbox execution",
+      "status": "NOT_TESTED",
+      "reason": "No installed Sandboxie driver/service; candidate is disabled"
+    },
+    {
+      "boundary": "protected original directory read denied",
+      "status": "NOT_TESTED",
+      "reason": "No installed Sandboxie driver/service; candidate is disabled"
+    },
+    {
+      "boundary": "private files read denied",
+      "status": "NOT_TESTED",
+      "reason": "No installed Sandboxie driver/service; candidate is disabled"
+    },
+    {
+      "boundary": "registry virtualization and license state noninheritance",
+      "status": "NOT_TESTED",
+      "reason": "No installed Sandboxie driver/service; candidate is disabled"
+    },
+    {
+      "boundary": "child-process confinement",
+      "status": "NOT_TESTED",
+      "reason": "No installed Sandboxie driver/service; candidate is disabled"
+    },
+    {
+      "boundary": "default offline enforced",
+      "status": "NOT_TESTED",
+      "reason": "No installed Sandboxie driver/service; candidate is disabled"
+    },
+    {
+      "boundary": "clipboard",
+      "status": "NOT_TESTED",
+      "reason": "No installed Sandboxie driver/service; candidate is disabled"
+    },
+    {
+      "boundary": "desktop/window capture",
+      "status": "NOT_TESTED",
+      "reason": "No installed Sandboxie driver/service; candidate is disabled"
+    },
+    {
+      "boundary": "input injection and global hooks",
+      "status": "NOT_TESTED",
+      "reason": "No installed Sandboxie driver/service; candidate is disabled"
+    },
+    {
+      "boundary": "COM/IPC",
+      "status": "NOT_TESTED",
+      "reason": "No installed Sandboxie driver/service; candidate is disabled"
+    },
+    {
+      "boundary": "GPU/device exceptions",
+      "status": "NOT_TESTED",
+      "reason": "No installed Sandboxie driver/service; candidate is disabled"
+    },
+    {
+      "boundary": "native sandbox file+registry snapshots",
+      "status": "NOT_TESTED",
+      "reason": "No installed Sandboxie driver/service; candidate is disabled"
+    }
+  ]
+}

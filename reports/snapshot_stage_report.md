@@ -1,0 +1,14 @@
+# Snapshot and remaining boundary qualification
+Updated UTC: 2026-09-27T16:49:44.888019+00:00
+
+Native formal snapshot: PASS. User created CLEAN_NO_LICENSE_STD_01 and used official Go to Snapshot after computer-use clicks failed with coordinate geometry/out-of-bounds errors. Owned file AND HKCU value observed snap-alpha -> snap-beta-3a481290e37744d0908c41c49427a1ee -> snap-alpha. Host marker unchanged, host temporary registry key absent, sandbox/Job active0. Reports native_snapshot_before.json, native_snapshot_mutate.json, native_snapshot_verify.json. No direct copy/delete of sandbox internals or hives.
+
+Clipboard handle test: PASS within Win32 GetClipboardData(CF_UNICODETEXT) scope. Unicode format present before and after, clipboard sequence unchanged, sandbox OpenClipboard succeeds but GetClipboardData returnsNULL. No GlobalLock/dereference, no clipboard text read/printed/copied/cleared. PhysicalDrive0 and PhysicalDrive1 GENERIC_READ handles both denied error5; no disk bytes read. reports/peripheral_results.json.
+
+Desktop capture: NOT QUALIFIED. Sandbox DXGI DuplicateOutput returnedHRESULT0 and interface present. Probe did not call AcquireNextFrame, Map or read/copy/save screen pixels. All interfaces released and process count0. This exposes a capture-capability gap despite passing own-window PrintWindow/message/process access tests. Official BlockScreenCapture covers selected USER32/GDI paths, not every capture API. Do not mark READY or execute original based on the existing box. reports/capture_capability_results.json.
+
+Original startup audit remains PARTIAL: existing startup_flow.md records CRT/TLS initialization, Direct3D UI, reading config.txt and model scanning during initialization; relative-path/cwd and full DLL/TLS startup behavior unresolved. Static imports include TRT, TRT plugin, ORT, OpenCV, gmssl, cpr and registry/input APIs. EXE alone is staged as static input; original runtime DLLs/config/models/licenses are excluded. Thus even pre-inference startup cannot be presumed inert. Host license inheritance not fully qualified, especially unspecified machine-wide registry locations. No business services or activation.
+
+System-action proposal: reports/proposed_clean_session.md. One standard local Windows test account/session can be evaluated without a new Windows install, GPU VM or paid certificate. It remains a proposal requiring user confirmation; no new account or ACL was created/changed. Successful session separation and identity need real retesting.
+
+Original project: read-only throughout; same16registered input hashes rechecked unchanged in source_protection_snapshot_stage.json, not whole-tree proof. Lab control is an operating convention for Codex; sandbox denials above are separate measured enforcement. Prior actual MSVC/TensorRT own GPU pass remains valid. Local snapshots rollback only boxed file/registry state, not tools/services/driver installation, host actions or server records.

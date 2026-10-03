@@ -1,0 +1,12 @@
+{
+  "component": "Sandboxie",
+  "installer": "D:\\PV1Lab\\downloads\\verified\\Sandboxie-Plus-x64-v1.18.5.exe",
+  "authorized": "USER_EXPLICIT_SYSTEM_INSTALL",
+  "started_utc": "2026-09-27T15:24:37.1544316Z",
+  "state": "INSTALLER_EXITED",
+  "pid": 50052,
+  "exit_code": 0,
+  "caller_elevated": false,
+  "arguments": "/VERYSILENT /SUPPRESSMSGBOXES /NORESTART /SP- /ALLUSERS /TASKS=\"\" /DIR=\"D:\\PV1Lab\\tools\\Sandboxie-Plus\" /LOG=\"D:\\PV1Lab\\reports\\system_install\\sandboxie-install.log\"",
+  "finished_utc": "2026-09-27T15:24:42.7421371Z"
+}

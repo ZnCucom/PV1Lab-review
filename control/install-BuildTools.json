@@ -1,0 +1,12 @@
+{
+  "component": "BuildTools",
+  "installer": "D:\\PV1Lab\\downloads\\verified\\vs_buildtools.exe",
+  "authorized": "USER_EXPLICIT_SYSTEM_INSTALL",
+  "started_utc": "2026-09-27T15:24:52.8959003Z",
+  "state": "INSTALLER_EXITED",
+  "pid": 54572,
+  "exit_code": 0,
+  "caller_elevated": false,
+  "arguments": "--passive --wait --norestart --installPath \"D:\\PV1Lab\\tools\\VS2022BuildTools\" --path cache=\"D:\\PV1Lab\\cache\\vs-packages\" --add Microsoft.VisualStudio.Workload.VCTools --add Microsoft.VisualStudio.Component.VC.Tools.x86.x64 --add Microsoft.VisualStudio.Component.Windows11SDK.26100",
+  "finished_utc": "2026-09-27T15:26:15.1787824Z"
+}

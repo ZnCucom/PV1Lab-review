@@ -1,0 +1,18 @@
+{
+  "run_id": "87482c17836c48b4a4240b3ccd61fc21",
+  "source_stage": "D:\\PV1Lab\\staging\\source\\vendor-87482c17836c48b4a4240b3ccd61fc21",
+  "sources": [
+    {
+      "source": "D:\\Pv1260909\\_reverse_work\\reconstructed\\native\\src\\trt_vendor_msvc.cpp",
+      "destination": "D:\\PV1Lab\\staging\\source\\vendor-87482c17836c48b4a4240b3ccd61fc21\\src\\trt_vendor_msvc.cpp",
+      "sha256": "ae9f60ca9e0226b43980bec1de763a8906423b38158624ecbfb920ad68a2d433"
+    },
+    {
+      "source": "D:\\Pv1260909\\_reverse_work\\reconstructed\\native\\include\\recovered\\trt_c_api.h",
+      "destination": "D:\\PV1Lab\\staging\\source\\vendor-87482c17836c48b4a4240b3ccd61fc21\\include\\recovered\\trt_c_api.h",
+      "sha256": "e8260e41248fd5c249ebc5f3646560b2400159b30a3f6401694c3d1a7ede1daa"
+    }
+  ],
+  "kind": "REAL_MSVC_VENDOR_NO_MOCK_NO_SYNTAX_MACROS",
+  "nvcc_official_sha256": "227b109663b5e57d2718bcabb24a4ba0d9d4e52d958e327dc476f7c28691be85"
+}

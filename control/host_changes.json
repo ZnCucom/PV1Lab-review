@@ -1,0 +1,28 @@
+{
+  "system_installs_performed": [
+    "Sandboxie Plus 1.18.5; installer exit0",
+    "Visual Studio 2022 Build Tools 17.14.41 + MSVC v143 + Windows SDK10.0.26100.0; installer exit0"
+  ],
+  "driver_service_changes": [
+    "SbieSvc Running/Auto version5.73.5",
+    "SbieDrv Running/Demand version5.73.2",
+    "Official installer-owned Visual Studio services/components; see installation logs"
+  ],
+  "global_PATH_changes": false,
+  "ACL_changes": false,
+  "firewall_changes": false,
+  "reboots": 0,
+  "host_components_used": [
+    "existing Python runtime",
+    "Windows System32 CUDA driver",
+    "existing GPU driver 610.88",
+    "Windows DirectX/system libraries",
+    "PowerShell/curl/git read-only queries"
+  ],
+  "outside_lab_effects": "Sandboxie service/driver registry and C:\\Windows\\Sandboxie.ini; Visual Studio Installer and Windows SDK under Program Files (x86), setup registry/services/caches; SandMan per-user UI settings; Windows/GPU caches and prefetch. Lab deletion does not uninstall or undo them.",
+  "registry_canary": "HKCU Software\\PV1Lab_Canary_abc0b5b9 newly created, host marker unchanged during sandbox test, own key removed afterward; sandbox registry state retained in disabled box",
+  "pending_system_actions": [],
+  "license_used": false,
+  "real_activation_or_unbind_service_accessed": false,
+  "uploads": false
+}

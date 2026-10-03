@@ -1,0 +1,17 @@
+HOST
+driver_module_loaded=1 error=0
+driver_module_path=C:\WINDOWS\SYSTEM32\nvcuda.dll
+cuDriverGetVersion=0 CUDA_SUCCESS
+version=13030
+cuInit=0 CUDA_SUCCESS
+cuDeviceGetCount=0 CUDA_SUCCESS
+count=1
+
+SANDBOX
+driver_module_loaded=1 error=0
+driver_module_path=C:\WINDOWS\SYSTEM32\nvcuda.dll
+cuDriverGetVersion=0 CUDA_SUCCESS
+version=13030
+cuInit=0 CUDA_SUCCESS
+cuDeviceGetCount=0 CUDA_SUCCESS
+count=1

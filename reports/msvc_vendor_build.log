@@ -1,0 +1,17 @@
+**********************************************************************
+** Visual Studio 2022 Developer Command Prompt v17.14.41
+** Copyright (c) 2025 Microsoft Corporation
+**********************************************************************
+[vcvarsall.bat] Environment initialized for: 'x64'
+Compiler Passes:
+ D:\PV1Lab\tools\VS2022BuildTools\VC\Tools\MSVC\14.44.35207\bin\HostX64\x64\cl.exe:        Version 19.44.35229.0
+ D:\PV1Lab\tools\VS2022BuildTools\VC\Tools\MSVC\14.44.35207\bin\HostX64\x64\c1.dll:        Version 19.44.35229.0
+ D:\PV1Lab\tools\VS2022BuildTools\VC\Tools\MSVC\14.44.35207\bin\HostX64\x64\c1xx.dll:      Version 19.44.35229.0
+ D:\PV1Lab\tools\VS2022BuildTools\VC\Tools\MSVC\14.44.35207\bin\HostX64\x64\c2.dll:        Version 19.44.35229.0
+ D:\PV1Lab\tools\VS2022BuildTools\VC\Tools\MSVC\14.44.35207\bin\HostX64\x64\c1xx.dll:      Version 19.44.35229.0
+ D:\PV1Lab\tools\VS2022BuildTools\VC\Tools\MSVC\14.44.35207\bin\HostX64\x64\link.exe:      Version 14.44.35229.0
+ D:\PV1Lab\tools\VS2022BuildTools\VC\Tools\MSVC\14.44.35207\bin\HostX64\x64\mspdb140.dll:  Version 14.44.35229.0
+ D:\PV1Lab\tools\VS2022BuildTools\VC\Tools\MSVC\14.44.35207\bin\HostX64\x64\1033\clui.dll: Version 19.44.35229.0
+
+trt_vendor_msvc.cpp
+   Creating library D:\PV1Lab\runs\87482c17836c48b4a4240b3ccd61fc21\build\pv_trt_vendor.lib and object D:\PV1Lab\runs\87482c17836c48b4a4240b3ccd61fc21\build\pv_trt_vendor.exp

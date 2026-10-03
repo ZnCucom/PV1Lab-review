@@ -1,0 +1,26 @@
+{
+  "updated_utc": "2026-09-27T16:49:44.888019+00:00",
+  "box": "PV1Lab_StandardTest",
+  "allow_original_launch": false,
+  "allow_real_activation": false,
+  "allow_reviewed_owned_tests": true,
+  "owned_gpu_verified": true,
+  "five_minute_hold_verified_ms": 370109,
+  "preconditions": [
+    "No other active box processes",
+    "Requery effective settings against standard_box.json",
+    "Validate reviewed payload hashes",
+    "Resolve PhysicalDrive device names again before next run and reject unlisted devices; current names Harddisk0/DR0, Harddisk1/DR1",
+    "No hotplugged storage during tests"
+  ],
+  "pending": [
+    "Separate clean interactive Windows session or another actually qualified desktop boundary",
+    "Original startup/dependency/license-state audit remains partial",
+    "Retest actual input/capture boundaries and GPU in selected environment",
+    "First real execution/network user confirmation"
+  ],
+  "native_snapshot_restore_verified": true,
+  "clipboard_handle_denial_verified": true,
+  "both_physical_disk_handles_denied": true,
+  "desktop_capture_boundary": "DXGI_DUPLICATEOUTPUT_SUCCEEDED; NO_FRAME_ACQUIRED"
+}

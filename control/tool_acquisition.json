@@ -1,0 +1,46 @@
+[
+  {
+    "name": "llvm-mingw-20260922-ucrt-x86_64.zip",
+    "url": "https://github.com/mstorsjo/llvm-mingw/releases/download/20260922/llvm-mingw-20260922-ucrt-x86_64.zip",
+    "sha256": "e3ad77d117a4bea19a7a3b333341824d79a5a371004a10e25b8504e7b3047666",
+    "kind": "tool_archive",
+    "source": "D:\\Pv1260909\\_reverse_work\\cache\\llvm-mingw-20260922-ucrt-x86_64.zip",
+    "local": "D:\\PV1Lab\\downloads\\verified\\llvm-mingw-20260922-ucrt-x86_64.zip",
+    "size": 190725905,
+    "observed_sha256": "e3ad77d117a4bea19a7a3b333341824d79a5a371004a10e25b8504e7b3047666",
+    "verification": "MATCH_EXISTING_PIN; independent provenance/signature checked separately"
+  },
+  {
+    "name": "cuda_nvrtc-windows-x86_64-12.9.86-archive.zip",
+    "kind": "nvrtc",
+    "url": "https://developer.download.nvidia.com/compute/cuda/redist/cuda_nvrtc/windows-x86_64/cuda_nvrtc-windows-x86_64-12.9.86-archive.zip",
+    "sha256": "1aa0644fa53c8ca34cdc73db17bcc73530557bdd3f582c7bfdbd7916c8b48f65",
+    "source": "D:\\Pv1260909\\_reverse_work\\tools\\nvrtc_12.9.86\\official.zip",
+    "local": "D:\\PV1Lab\\downloads\\verified\\cuda_nvrtc-windows-x86_64-12.9.86-archive.zip",
+    "size": 314608748,
+    "observed_sha256": "1aa0644fa53c8ca34cdc73db17bcc73530557bdd3f582c7bfdbd7916c8b48f65",
+    "verification": "MATCH_EXISTING_PIN; independent provenance/signature checked separately"
+  },
+  {
+    "name": "microsoft.ml.onnxruntime.directml.1.23.0.nupkg",
+    "url": "https://api.nuget.org/v3-flatcontainer/microsoft.ml.onnxruntime.directml/1.23.0/microsoft.ml.onnxruntime.directml.1.23.0.nupkg",
+    "sha256": "a33ec2382b3c440bab74042a135733bb6e5085f293b908d3997688a58fe307e7",
+    "kind": "ort",
+    "source": "D:\\Pv1260909\\_reverse_work\\cache\\microsoft.ml.onnxruntime.directml.1.23.0.nupkg",
+    "local": "D:\\PV1Lab\\downloads\\verified\\microsoft.ml.onnxruntime.directml.1.23.0.nupkg",
+    "size": 12746067,
+    "observed_sha256": "a33ec2382b3c440bab74042a135733bb6e5085f293b908d3997688a58fe307e7",
+    "verification": "MATCH_EXISTING_PIN; independent provenance/signature checked separately"
+  },
+  {
+    "name": "microsoft.ai.directml.1.15.4.nupkg",
+    "url": "https://api.nuget.org/v3-flatcontainer/microsoft.ai.directml/1.15.4/microsoft.ai.directml.1.15.4.nupkg",
+    "sha256": "4e7cb7ddce8cf837a7a75dc029209b520ca0101470fcdf275c1f49736a3615b9",
+    "kind": "directml",
+    "source": "D:\\Pv1260909\\_reverse_work\\cache\\microsoft.ai.directml.1.15.4.nupkg",
+    "local": "D:\\PV1Lab\\downloads\\verified\\microsoft.ai.directml.1.15.4.nupkg",
+    "size": 202292617,
+    "observed_sha256": "4e7cb7ddce8cf837a7a75dc029209b520ca0101470fcdf275c1f49736a3615b9",
+    "verification": "MATCH_EXISTING_PIN; independent provenance/signature checked separately"
+  }
+]

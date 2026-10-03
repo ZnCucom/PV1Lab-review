@@ -1,0 +1,210 @@
+[
+  {
+    "path": ".gitattributes",
+    "sha256": "e45c8af67839fc8ab6c81ca616718a70fb7175ad5dae7a22a3067f9ffd321e0b",
+    "bytes": 340,
+    "lines": 18,
+    "source": "cab634bd855fc287f6e420c1f36fd1a6b9245960:.gitattributes",
+    "executed": false
+  },
+  {
+    "path": "RULES.md",
+    "sha256": "83132f6a77ac86949b4927c7794c3439a0c1fc325be9f40a68ef85c6da427918",
+    "bytes": 27074,
+    "lines": 423,
+    "source": "cab634bd855fc287f6e420c1f36fd1a6b9245960:RULES.md",
+    "executed": false
+  },
+  {
+    "path": "README_AI.md",
+    "sha256": "f0e2ad824234b3eb89196b3b202fbb075b5e006801443d22e4e8dd3a9be8d4c8",
+    "bytes": 29431,
+    "lines": 614,
+    "source": "cab634bd855fc287f6e420c1f36fd1a6b9245960:README_AI.md",
+    "executed": false
+  },
+  {
+    "path": "AGENTS.md",
+    "sha256": "b9c820457f8a7e40b81c1765fb45fe3de7e4862304b42e641003e7bc9ce6ae8b",
+    "bytes": 3676,
+    "lines": 60,
+    "source": "cab634bd855fc287f6e420c1f36fd1a6b9245960:AGENTS.md",
+    "executed": false
+  },
+  {
+    "path": "plugins/reverse-skill/skills/reverse-skill-router/SKILL.md",
+    "sha256": "9991b8b028b30362f49f90f28093a14a24fc0091993bd49bcea7693fe4f6a435",
+    "bytes": 1507,
+    "lines": 20,
+    "source": "cab634bd855fc287f6e420c1f36fd1a6b9245960:plugins/reverse-skill/skills/reverse-skill-router/SKILL.md",
+    "executed": false
+  },
+  {
+    "path": "skills/ghidra-reverse/SKILL.md",
+    "sha256": "f71acac4668b0320ce9f9768bb7cacc200b75140f1bab051982c8c5c3d3869b7",
+    "bytes": 2562,
+    "lines": 88,
+    "source": "cab634bd855fc287f6e420c1f36fd1a6b9245960:skills/ghidra-reverse/SKILL.md",
+    "executed": false
+  },
+  {
+    "path": "skills/ghidra-reverse/references/ghidra-cheatsheet.md",
+    "sha256": "bd6fb357f9441f3657dff868d9b9a58db7d9f47d7220e5f8839e4c67276cdd1a",
+    "bytes": 353,
+    "lines": 12,
+    "source": "cab634bd855fc287f6e420c1f36fd1a6b9245960:skills/ghidra-reverse/references/ghidra-cheatsheet.md",
+    "executed": false
+  },
+  {
+    "path": "skills/reverse-engineering/SKILL.md",
+    "sha256": "7128b8445c61d41917eb28eb56c24c8ca2a3518b8b5b46c83137bf5e0b4935af",
+    "bytes": 14515,
+    "lines": 214,
+    "source": "cab634bd855fc287f6e420c1f36fd1a6b9245960:skills/reverse-engineering/SKILL.md",
+    "executed": false
+  },
+  {
+    "path": "skills/reverse-engineering/references/re-agent-workflow.md",
+    "sha256": "b94ab671a3950b9256996e15255a4eb60b8da1d202948511248615c5d4114b7b",
+    "bytes": 16942,
+    "lines": 240,
+    "source": "cab634bd855fc287f6e420c1f36fd1a6b9245960:skills/reverse-engineering/references/re-agent-workflow.md",
+    "executed": false
+  },
+  {
+    "path": "skills/ops/evidence-finding-path.md",
+    "sha256": "8a4eb04acc865605409f284c2f476b3a07676739fc263b57e7b6c7c9e0c4017a",
+    "bytes": 4376,
+    "lines": 131,
+    "source": "cab634bd855fc287f6e420c1f36fd1a6b9245960:skills/ops/evidence-finding-path.md",
+    "executed": false
+  },
+  {
+    "path": "skills/ops/timeline-workitem.md",
+    "sha256": "8621af4384ff89c7a9f106219b2d860bf3652b6f3b67ce58c76a95684bb5dc47",
+    "bytes": 3586,
+    "lines": 87,
+    "source": "cab634bd855fc287f6e420c1f36fd1a6b9245960:skills/ops/timeline-workitem.md",
+    "executed": false
+  },
+  {
+    "path": "skills/ops/scope-contract.md",
+    "sha256": "cf7e170d6796155e43b59bf153c02355852bb414bd0b7d04cd7e3f8bde9cfec0",
+    "bytes": 4011,
+    "lines": 117,
+    "source": "cab634bd855fc287f6e420c1f36fd1a6b9245960:skills/ops/scope-contract.md",
+    "executed": false
+  },
+  {
+    "path": "skills/ops/role-map.md",
+    "sha256": "6a61ccde45b0ace7df586f8678ec9a675347e40f26e9ca1f3321fbba444451e3",
+    "bytes": 3134,
+    "lines": 63,
+    "source": "cab634bd855fc287f6e420c1f36fd1a6b9245960:skills/ops/role-map.md",
+    "executed": false
+  },
+  {
+    "path": "skills/case-review/SKILL.md",
+    "sha256": "da9ca51e03f1b1fe3728e74cf97515c1c51b21ed96a98b834d6b3c35558a3b58",
+    "bytes": 6881,
+    "lines": 157,
+    "source": "cab634bd855fc287f6e420c1f36fd1a6b9245960:skills/case-review/SKILL.md",
+    "executed": false
+  },
+  {
+    "path": "skills/case-review/scripts/review_case.py",
+    "sha256": "aace3fad8514ef24aa1f1a99fed83d58eb531f8e876051b36f284e7d3704158d",
+    "bytes": 20559,
+    "lines": 455,
+    "source": "cab634bd855fc287f6e420c1f36fd1a6b9245960:skills/case-review/scripts/review_case.py",
+    "executed": false
+  },
+  {
+    "path": "skills/scripts/master-route.ps1",
+    "sha256": "3bf54f4ab256bb1908dc6a75224cce34a7311ea8fcfe179847aa854a38fac5a7",
+    "bytes": 8001,
+    "lines": 175,
+    "source": "cab634bd855fc287f6e420c1f36fd1a6b9245960:skills/scripts/master-route.ps1",
+    "executed": false
+  },
+  {
+    "path": "skills/scripts/case-init.ps1",
+    "sha256": "fff865ea9be0b5aef8b5ef837cc65c0d5f552672f46791f2141d54b27e175d58",
+    "bytes": 14720,
+    "lines": 376,
+    "source": "cab634bd855fc287f6e420c1f36fd1a6b9245960:skills/scripts/case-init.ps1",
+    "executed": false
+  },
+  {
+    "path": "skills/scripts/case-guard.ps1",
+    "sha256": "a21f37babfc407e8220c2d60d82d6282e3966796ad873369e7d99ebfe0b6fccf",
+    "bytes": 3950,
+    "lines": 101,
+    "source": "cab634bd855fc287f6e420c1f36fd1a6b9245960:skills/scripts/case-guard.ps1",
+    "executed": false
+  },
+  {
+    "path": "skills/scripts/append-evidence.ps1",
+    "sha256": "a96be4b14bb7f167e9440360804727f200fdc6c5c43e6b45f937df20903f3a34",
+    "bytes": 7285,
+    "lines": 200,
+    "source": "cab634bd855fc287f6e420c1f36fd1a6b9245960:skills/scripts/append-evidence.ps1",
+    "executed": false
+  },
+  {
+    "path": "skills/scripts/refresh-tool-index.ps1",
+    "sha256": "120e1b716d933aa18db33c122b57309878533ad976c413ddd4e9ec1e1659b8da",
+    "bytes": 7883,
+    "lines": 183,
+    "source": "cab634bd855fc287f6e420c1f36fd1a6b9245960:skills/scripts/refresh-tool-index.ps1",
+    "executed": false
+  },
+  {
+    "path": "skills/scripts/lib/WorkRoot.ps1",
+    "sha256": "7dcd7dcebb66afb36996662ff547fe2bc72a0591fd5a60d7206dbd447eb85acf",
+    "bytes": 876,
+    "lines": 33,
+    "source": "cab634bd855fc287f6e420c1f36fd1a6b9245960:skills/scripts/lib/WorkRoot.ps1",
+    "executed": false
+  },
+  {
+    "path": "skills/scripts/lib/HostRuntime.ps1",
+    "sha256": "498dbb8dbed13df9a2099267cc670b3f73eed30913996a754c08ee53191bb74a",
+    "bytes": 1933,
+    "lines": 58,
+    "source": "cab634bd855fc287f6e420c1f36fd1a6b9245960:skills/scripts/lib/HostRuntime.ps1",
+    "executed": false
+  },
+  {
+    "path": "skills/scripts/lib/RouteScope.ps1",
+    "sha256": "7adc5d06f89af1da24065218c421dcf6fd63ffff2181fd03510e84074162358d",
+    "bytes": 718,
+    "lines": 19,
+    "source": "cab634bd855fc287f6e420c1f36fd1a6b9245960:skills/scripts/lib/RouteScope.ps1",
+    "executed": false
+  },
+  {
+    "path": "skills/scripts/lib/ToolDiscovery.ps1",
+    "sha256": "460fa0653eb5ba67338c6342f0b119087a6d9629169daa3ab10094a18f0b26b8",
+    "bytes": 45708,
+    "lines": 1188,
+    "source": "cab634bd855fc287f6e420c1f36fd1a6b9245960:skills/scripts/lib/ToolDiscovery.ps1",
+    "executed": false
+  },
+  {
+    "path": "skills/config/routing.json",
+    "sha256": "8a5795f38003958e17038ea7bc28970cf478eabefb363c0be517915f0ef7b815",
+    "bytes": 15089,
+    "lines": 337,
+    "source": "cab634bd855fc287f6e420c1f36fd1a6b9245960:skills/config/routing.json",
+    "executed": false
+  },
+  {
+    "path": "skills/scripts/bootstrap-manifest.json",
+    "sha256": "8fb4fc5a08e3e7e937f80867b3f4b54232c05ee500d1703206c0135a93d43ed8",
+    "bytes": 12810,
+    "lines": 359,
+    "source": "cab634bd855fc287f6e420c1f36fd1a6b9245960:skills/scripts/bootstrap-manifest.json",
+    "executed": false
+  }
+]

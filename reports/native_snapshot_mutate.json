@@ -1,0 +1,15 @@
+{
+  "status": "PASS",
+  "run_id": "3a481290e37744d0908c41c49427a1ee",
+  "file": "snap-beta-3a481290e37744d0908c41c49427a1ee",
+  "registry": "snap-beta-3a481290e37744d0908c41c49427a1ee",
+  "host_unchanged": true,
+  "box_active_processes": 0,
+  "raw_devices": [
+    "\\Device\\Harddisk0\\DR0",
+    "\\Device\\Harddisk1\\DR1"
+  ],
+  "snapshot": "CLEAN_NO_LICENSE_STD_01",
+  "phase": "mutate",
+  "time": 1790527377.2152934
+}

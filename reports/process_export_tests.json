@@ -1,0 +1,14 @@
+{
+  "result": "PASS",
+  "cases": [
+    "actual descendant retains job",
+    "active cleanup refused",
+    "cooperative stop",
+    "job drains to zero",
+    "cleanup after drain",
+    "fake secret excluded",
+    "invalid enum refused",
+    "invalid number refused"
+  ],
+  "job_processes": 4
+}

@@ -1,0 +1,12 @@
+{
+  "state": "STOPPED_AT_GUI_AND_SUPPORTER_FEATURE_BOUNDARY",
+  "box": "PV1Lab_NoLicense",
+  "enabled": false,
+  "allow_owned_probe_launch": false,
+  "allow_gpu_launch": false,
+  "allow_original_launch": false,
+  "reason": "RestrictDevices triggers official 5-minute termination without a suitable supporter certificate; computer-use cannot locate or activate the visible setup wizard. User instructed stop if GUI cannot be handled.",
+  "sandboxie_use": "USER_CONFIRMED_PERSONAL_NONCOMMERCIAL",
+  "real_license_used": false,
+  "real_business_service_accessed": false
+}

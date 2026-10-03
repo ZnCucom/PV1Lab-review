@@ -1,0 +1,30 @@
+{
+  "workspace_id": "abc0b5b9-f529-47a0-9479-b65924072bf6",
+  "enabled_scopes": [
+    "explicit registered ordinary runs only"
+  ],
+  "cache_cleanup": "disabled until individually registered; no blanket cache removal",
+  "never_delete": [
+    "lab root",
+    "control",
+    "scripts",
+    "tools",
+    "downloads/verified",
+    "downloads/quarantine",
+    "baselines",
+    "staging",
+    "reports",
+    "exports",
+    "boxes",
+    "protected project"
+  ],
+  "flow": [
+    "normal cooperative stop",
+    "confirm Job Object active count zero",
+    "preview",
+    "revalidate and lock objects",
+    "delete with pinned handles"
+  ],
+  "timeouts": "preserve; no process-name kill, forced GPU termination or unsafe unload",
+  "snapshot": "ordinary no-license files only; Sandboxie snapshot operations through SandMan only after engine installed and processes stopped"
+}

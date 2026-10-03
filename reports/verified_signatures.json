@@ -1,0 +1,42 @@
+[
+  {
+    "path": "D:\\PV1Lab\\downloads\\verified\\Sandboxie-Plus-x64-v1.18.5.exe",
+    "size": 24856520,
+    "sha256": "bd984db71900ecb9fc22e4bbffda4363a92cd755840a8792c2422d6d42fd6fa3",
+    "signature": "Valid",
+    "signer": "CN=NOVASYNC LABS PTE. LTD., O=NOVASYNC LABS PTE. LTD., STREET=\"10 Selegie Road, #01-45, Selegie House\", L=SINGAPORE, S=SINGAPORE, C=SG, OID.1.3.6.1.4.1.311.60.2.1.3=SG, SERIALNUMBER=202406244E, OID.2.5.4.15=Private Organization",
+    "file_version": "1.18.5              "
+  },
+  {
+    "path": "D:\\PV1Lab\\downloads\\verified\\vs_buildtools.exe",
+    "size": 4478032,
+    "sha256": "985969f472caad75d993a5cb4c35a6a4271460cc12b343e2433b994d173aa990",
+    "signature": "Valid",
+    "signer": "CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US",
+    "file_version": "17.14.37710.0"
+  },
+  {
+    "path": "D:\\PV1Lab\\tools\\ort\\runtimes\\win-x64\\native\\onnxruntime.dll",
+    "size": 17201208,
+    "sha256": "f5131591edac6b0a8090d0e329040a49319d7a689cb5b465235fbf7030fa8027",
+    "signature": "Valid",
+    "signer": "CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US",
+    "file_version": "1.23.20250926.7.0b2c4ac"
+  },
+  {
+    "path": "D:\\PV1Lab\\tools\\directml\\bin\\x64-win\\DirectML.dll",
+    "size": 18527776,
+    "sha256": "9c9e6d822561c6c41b90e6994b3e8857cf1d66dbfb1e0c4c799c7c89b4e92da1",
+    "signature": "Valid",
+    "signer": "CN=Microsoft Windows Publisher, O=Microsoft Corporation, L=Redmond, S=Washington, C=US",
+    "file_version": "1.15.4+241025-1615.1.dml-1.15.fac7597"
+  },
+  {
+    "path": "D:\\PV1Lab\\tools\\cudart\\cuda_cudart-windows-x86_64-12.9.79-archive\\bin\\cudart64_12.dll",
+    "size": 583680,
+    "sha256": "760c38928bbe5759f7b31ed6692599eb7ec83cedd5702e84c2b72028a89837e1",
+    "signature": "NotSigned",
+    "signer": null,
+    "file_version": "6,14,11,12090"
+  }
+]

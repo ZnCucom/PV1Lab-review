@@ -1,0 +1,21 @@
+{
+  "workspace_id": "abc0b5b9-f529-47a0-9479-b65924072bf6",
+  "lab": "D:\\PV1Lab",
+  "protected_root": "D:\\Pv1260909",
+  "main_source": "D:\\Pv1260909\\_reverse_work\\reconstructed\\native",
+  "codex_enforcement": "PROCEDURAL_ONLY; runtime grants unrestricted filesystem; no root/ACL/security changes made",
+  "target_enforcement": "NOT_INSTALLED_NOT_TESTED; original launch disabled",
+  "copies": "explicit manifest, independent bytes, no project/lab links",
+  "sensitive": "never read, hash, copy or export existing license/token/raw authorization/dumps",
+  "cleanup_guard": "registered run ID plus marker and inode; canonical path components; Windows handles held without write/delete sharing; delete by same handle",
+  "unsupported": [
+    "UNC",
+    "device paths",
+    "ADS",
+    "8.3 short names",
+    "reparse points",
+    "hardlinks",
+    "unknown ownership",
+    "live/unresolved processes"
+  ]
+}

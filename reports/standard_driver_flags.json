@@ -1,0 +1,10 @@
+{
+  "pid": 36120,
+  "flags": "0x20008091",
+  "valid_process": true,
+  "app_compartment": false,
+  "privacy_mode": false,
+  "rule_specificity": false,
+  "drop_rights_configured": true,
+  "rights_dropped": false
+}

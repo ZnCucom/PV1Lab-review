@@ -1,0 +1,14 @@
+{
+  "box": "PV1Lab_NoLicense",
+  "original_executed": false,
+  "real_network_requests": false,
+  "launcher_pid": 62240,
+  "state": "EXITED",
+  "exit_code": 0,
+  "box_pids_stdout": "2\n10028\n61136\n",
+  "box_pids_exit": 0,
+  "host_file_unchanged": true,
+  "host_registry_unchanged": true,
+  "host_registry_contaminated": false,
+  "host_registry_canary_removed": true
+}

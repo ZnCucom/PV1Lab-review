@@ -1,0 +1,19 @@
+{
+  "updated_utc": "2026-09-27T16:49:44.888019+00:00",
+  "L01": "REGISTERED_INPUT_REHASH_UNCHANGED",
+  "L02": "PREVIOUS_MANAGEMENT_TESTS_PASS",
+  "L03": "REAL_MSVC_VENDOR_AND_OWN_ENGINE_HOST_PASS",
+  "L04": "NATIVE_SNAPSHOT_AND_CLIPBOARD_HANDLE_DISK_TESTS_PASS; DXGI_CAPTURE_CAPABILITY_NOT_BLOCKED",
+  "L05": "NOT_READY",
+  "L06": "NOT_EXECUTED",
+  "target_execution_enabled": false,
+  "license_used": false,
+  "real_business_service_accessed": false,
+  "sandbox_gpu": "PASS_24_FRAMES_3_CYCLES_6_NEGATIVE_TESTS_REAL_VENDOR",
+  "sandbox_native_snapshot": "PASS_FILE_AND_HKCU_ALPHA_BETA_RESTORE_ALPHA",
+  "sandbox_enabled": true,
+  "sandbox": "PV1Lab_StandardTest",
+  "sandbox_active_processes_last_observed": 0,
+  "stop_reason": "CURRENT_PERSONAL_DESKTOP_ISOLATION_NOT_QUALIFIED",
+  "evidence": "reports/snapshot_stage_report.md"
+}

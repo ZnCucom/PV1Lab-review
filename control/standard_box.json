@@ -1,0 +1,310 @@
+{
+  "box": "PV1Lab_StandardTest",
+  "run_id": "4a9b608de46e4a43964cb02af9574a83",
+  "payload": "D:\\PV1Lab\\staging\\owned-standard-payload",
+  "requested": {
+    "Enabled": [
+      "n"
+    ],
+    "FileRootPath": [
+      "D:\\PV1Lab\\boxes\\PV1Lab_StandardTest"
+    ],
+    "NeverDelete": [
+      "y"
+    ],
+    "DropAdminRights": [
+      "y"
+    ],
+    "RestrictDevices": [
+      "n"
+    ],
+    "OpenClipboard": [
+      "n"
+    ],
+    "BlockScreenCapture": [
+      "y"
+    ],
+    "BlockInterferenceControl": [
+      "y"
+    ],
+    "BlockNetworkFiles": [
+      "y"
+    ],
+    "NetworkAccess": [
+      "Block"
+    ],
+    "ClosedFilePath": [
+      "D:\\Pv1260909",
+      "C:\\Users",
+      "InternetAccessDevices",
+      "D:\\PV1Lab\\baselines",
+      "D:\\PV1Lab\\boxes",
+      "D:\\PV1Lab\\cache",
+      "D:\\PV1Lab\\control",
+      "D:\\PV1Lab\\downloads",
+      "D:\\PV1Lab\\exports",
+      "D:\\PV1Lab\\LAB_README.md",
+      "D:\\PV1Lab\\reports",
+      "D:\\PV1Lab\\runs",
+      "D:\\PV1Lab\\scripts",
+      "D:\\PV1Lab\\tools\\cudart",
+      "D:\\PV1Lab\\tools\\directml",
+      "D:\\PV1Lab\\tools\\llvm",
+      "D:\\PV1Lab\\tools\\nvcc_headers",
+      "D:\\PV1Lab\\tools\\nvrtc",
+      "D:\\PV1Lab\\tools\\ort",
+      "D:\\PV1Lab\\tools\\tensorrt",
+      "D:\\PV1Lab\\tools\\trt_python",
+      "D:\\PV1Lab\\tools\\VS2022BuildTools",
+      "D:\\PV1Lab\\staging\\original",
+      "D:\\PV1Lab\\staging\\owned-vendor-payload",
+      "D:\\PV1Lab\\staging\\own_isolation_probe.exe",
+      "D:\\PV1Lab\\staging\\source",
+      "\\Device\\NamedPipe\\UIA_PIPE_*",
+      "\\Device\\Harddisk0\\DR0",
+      "\\Device\\Harddisk1\\DR1"
+    ],
+    "WriteKeyPath": [
+      "HKEY_CURRENT_USER"
+    ],
+    "ClosedIpcPath": [
+      "*\\BaseNamedObjects*\\PV1Lab_Canary_*",
+      "\\Device\\PhysicalMemory",
+      "*\\BaseNamedObjects*\\7zCompressMapping*",
+      "*\\BaseNamedObjects*\\7zMap*",
+      "*\\BaseNamedObjects*\\UIA_CONNECT_EVENT_*",
+      "*\\BaseNamedObjects*\\UIA_PIPEREADY_EVENT_*",
+      "\\RPC Control\\OSPPCTransportEndpoint-*",
+      "\\RPC Control\\SPPCTransportEndpoint-*",
+      "\\RPC Control\\LiveIdSvc",
+      "\\RPC Control\\RasManLrpc",
+      "\\Device\\Harddisk0\\DR0",
+      "\\Device\\Harddisk1\\DR1"
+    ],
+    "AutoRecover": [
+      "n"
+    ],
+    "AutoDelete": [
+      "n"
+    ],
+    "UseSecurityMode": [
+      "n"
+    ],
+    "SysCallLockDown": [
+      "n"
+    ],
+    "UseRuleSpecificity": [
+      "n"
+    ],
+    "UsePrivacyMode": [
+      "n"
+    ],
+    "NoSecurityIsolation": [
+      "n"
+    ],
+    "ProtectHostImages": [
+      "n"
+    ],
+    "UseSandboxDesktop": [
+      "n"
+    ],
+    "ConfidentialBox": [
+      "n"
+    ],
+    "AllowRawDiskRead": [
+      "n"
+    ],
+    "OpenDevCMApi": [
+      "n"
+    ],
+    "OpenLsaEndpoint": [
+      "n"
+    ],
+    "OpenSamEndpoint": [
+      "n"
+    ],
+    "OpenWPADEndpoint": [
+      "n"
+    ],
+    "OpenAllSysCalls": [
+      "n"
+    ],
+    "WriteFilePath": [
+      "C:\\ProgramData"
+    ],
+    "NoSandboxieDesktop": [
+      "n"
+    ]
+  },
+  "query": {
+    "Enabled": [
+      "n"
+    ],
+    "FileRootPath": [
+      "D:\\PV1Lab\\boxes\\PV1Lab_StandardTest"
+    ],
+    "NeverDelete": [
+      "y"
+    ],
+    "DropAdminRights": [
+      "y"
+    ],
+    "RestrictDevices": [
+      "n"
+    ],
+    "OpenClipboard": [
+      "n"
+    ],
+    "BlockScreenCapture": [
+      "y"
+    ],
+    "BlockInterferenceControl": [
+      "y"
+    ],
+    "BlockNetworkFiles": [
+      "y"
+    ],
+    "NetworkAccess": [
+      "Block"
+    ],
+    "ClosedFilePath": [
+      "D:\\Pv1260909",
+      "C:\\Users",
+      "InternetAccessDevices",
+      "D:\\PV1Lab\\baselines",
+      "D:\\PV1Lab\\boxes",
+      "D:\\PV1Lab\\cache",
+      "D:\\PV1Lab\\control",
+      "D:\\PV1Lab\\downloads",
+      "D:\\PV1Lab\\exports",
+      "D:\\PV1Lab\\LAB_README.md",
+      "D:\\PV1Lab\\reports",
+      "D:\\PV1Lab\\runs",
+      "D:\\PV1Lab\\scripts",
+      "D:\\PV1Lab\\tools\\cudart",
+      "D:\\PV1Lab\\tools\\directml",
+      "D:\\PV1Lab\\tools\\llvm",
+      "D:\\PV1Lab\\tools\\nvcc_headers",
+      "D:\\PV1Lab\\tools\\nvrtc",
+      "D:\\PV1Lab\\tools\\ort",
+      "D:\\PV1Lab\\tools\\tensorrt",
+      "D:\\PV1Lab\\tools\\trt_python",
+      "D:\\PV1Lab\\tools\\VS2022BuildTools",
+      "D:\\PV1Lab\\staging\\original",
+      "D:\\PV1Lab\\staging\\owned-vendor-payload",
+      "D:\\PV1Lab\\staging\\own_isolation_probe.exe",
+      "D:\\PV1Lab\\staging\\source",
+      "\\Device\\NamedPipe\\UIA_PIPE_*",
+      "\\Device\\Harddisk0\\DR0",
+      "\\Device\\Harddisk1\\DR1"
+    ],
+    "WriteKeyPath": [
+      "HKEY_CURRENT_USER"
+    ],
+    "ClosedIpcPath": [
+      "*\\BaseNamedObjects*\\PV1Lab_Canary_*",
+      "\\Device\\PhysicalMemory",
+      "*\\BaseNamedObjects*\\7zCompressMapping*",
+      "*\\BaseNamedObjects*\\7zMap*",
+      "*\\BaseNamedObjects*\\UIA_CONNECT_EVENT_*",
+      "*\\BaseNamedObjects*\\UIA_PIPEREADY_EVENT_*",
+      "\\RPC Control\\OSPPCTransportEndpoint-*",
+      "\\RPC Control\\SPPCTransportEndpoint-*",
+      "\\RPC Control\\LiveIdSvc",
+      "\\RPC Control\\RasManLrpc",
+      "\\Device\\Harddisk0\\DR0",
+      "\\Device\\Harddisk1\\DR1"
+    ],
+    "AutoRecover": [
+      "n"
+    ],
+    "AutoDelete": [
+      "n"
+    ],
+    "UseSecurityMode": [
+      "n"
+    ],
+    "SysCallLockDown": [
+      "n"
+    ],
+    "UseRuleSpecificity": [
+      "n"
+    ],
+    "UsePrivacyMode": [
+      "n"
+    ],
+    "NoSecurityIsolation": [
+      "n"
+    ],
+    "ProtectHostImages": [
+      "n"
+    ],
+    "UseSandboxDesktop": [
+      "n"
+    ],
+    "ConfidentialBox": [
+      "n"
+    ],
+    "AllowRawDiskRead": [
+      "n"
+    ],
+    "OpenDevCMApi": [
+      "n"
+    ],
+    "OpenLsaEndpoint": [
+      "n"
+    ],
+    "OpenSamEndpoint": [
+      "n"
+    ],
+    "OpenWPADEndpoint": [
+      "n"
+    ],
+    "OpenAllSysCalls": [
+      "n"
+    ],
+    "WriteFilePath": [
+      "C:\\ProgramData"
+    ],
+    "NoSandboxieDesktop": [
+      "n"
+    ]
+  },
+  "manifest": [
+    {
+      "path": "D:\\PV1Lab\\staging\\owned-standard-payload\\vendor_runner.exe",
+      "sha256": "a83830434b76f2f9941c80dfbc11064a08de8ab00bb2bce49c753b4af8579514"
+    },
+    {
+      "path": "D:\\PV1Lab\\staging\\owned-standard-payload\\pv_trt_vendor.dll",
+      "sha256": "204767ed032a943cda9f93707705de643c30ffec33fef2a3c4a76d0c05d31020"
+    },
+    {
+      "path": "D:\\PV1Lab\\staging\\owned-standard-payload\\nvinfer_10.dll",
+      "sha256": "371e8a32f897dfcd77890cad829c8ea83f544947103e8b8c02ab62113a92d659"
+    },
+    {
+      "path": "D:\\PV1Lab\\staging\\owned-standard-payload\\nvinfer_lean_10.dll",
+      "sha256": "c7b272de5bb4ae8379ead0687b431ce9402b4f6542569ebcfcda281b70a2742f"
+    },
+    {
+      "path": "D:\\PV1Lab\\staging\\owned-standard-payload\\nvinfer_dispatch_10.dll",
+      "sha256": "41fca1a9e27da8f91d16398b3319e5287311d4b51bf133750b66a34262717f16"
+    },
+    {
+      "path": "D:\\PV1Lab\\staging\\owned-standard-payload\\cudart64_12.dll",
+      "sha256": "760c38928bbe5759f7b31ed6692599eb7ec83cedd5702e84c2b72028a89837e1"
+    },
+    {
+      "path": "D:\\PV1Lab\\staging\\owned-standard-payload\\owned_affine.engine",
+      "sha256": "e8a882f647c44e781db0707da3c6d678512801c46b8a55044d57b9cb34759ec4"
+    },
+    {
+      "path": "D:\\PV1Lab\\staging\\owned-standard-payload\\standard_probe.exe",
+      "sha256": "13c6f92619bb1c1b1f481d181b5c7a7bd287d878cc946edb1f473827cb2c7411"
+    }
+  ],
+  "stage": "OWNED_CPU_PROBES_ONLY",
+  "original_allowed": false,
+  "gpu_allowed": false
+}

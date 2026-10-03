@@ -1,0 +1,165 @@
+{
+  "version": "10.10.0.31",
+  "url": "https://developer.download.nvidia.com/compute/machine-learning/tensorrt/10.10.0/zip/TensorRT-10.10.0.31.Windows.win10.cuda-12.9.zip",
+  "size": 1895944873,
+  "sha256": "8243114e532987092413a160384ad8b4cc09edbf625766290511eb16c220486c",
+  "official_published_sha256": "NOT_OBTAINED; local digest is identification only",
+  "files": [
+    {
+      "path": "D:\\PV1Lab\\tools\\tensorrt\\TensorRT-10.10.0.31\\bin\\trtexec.exe",
+      "size": 977952,
+      "sha256": "15b22ee544b6bda44937ac0911d087f2265171a24f668d13da410f5a2285b11e"
+    },
+    {
+      "path": "D:\\PV1Lab\\tools\\tensorrt\\TensorRT-10.10.0.31\\lib\\nvinfer_lean_10.lib",
+      "size": 2629302,
+      "sha256": "2fd5d3d48a84fb448b918cc7ed23652742d55e3e2aaf64bed6e0041f3483ecb8"
+    },
+    {
+      "path": "D:\\PV1Lab\\tools\\tensorrt\\TensorRT-10.10.0.31\\lib\\nvinfer_10.lib",
+      "size": 4405126,
+      "sha256": "eba04e093e34848229abb4e001b4507d64ab3dbb7fea8ce5a2188f0eb3d4b335"
+    },
+    {
+      "path": "D:\\PV1Lab\\tools\\tensorrt\\TensorRT-10.10.0.31\\lib\\nvinfer_10.dll",
+      "size": 428754464,
+      "sha256": "371e8a32f897dfcd77890cad829c8ea83f544947103e8b8c02ab62113a92d659"
+    },
+    {
+      "path": "D:\\PV1Lab\\tools\\tensorrt\\TensorRT-10.10.0.31\\lib\\nvinfer_dispatch_10.lib",
+      "size": 4362,
+      "sha256": "0458ff564079c8b300dba938646880a39bab2b1e7873b69cae5521b709d300dd"
+    },
+    {
+      "path": "D:\\PV1Lab\\tools\\tensorrt\\TensorRT-10.10.0.31\\lib\\nvinfer_plugin_10.dll",
+      "size": 52696608,
+      "sha256": "a1e1624d816857340b265a66a7bca374f017349bc63a182e9e717af5cf54470a"
+    },
+    {
+      "path": "D:\\PV1Lab\\tools\\tensorrt\\TensorRT-10.10.0.31\\lib\\nvinfer_plugin_10.lib",
+      "size": 2564,
+      "sha256": "dd2fa9de941aa0f2dc8703f445fcfacd7497e30d374213cd81785aa12015fbf8"
+    },
+    {
+      "path": "D:\\PV1Lab\\tools\\tensorrt\\TensorRT-10.10.0.31\\lib\\nvinfer_vc_plugin_10.lib",
+      "size": 2374,
+      "sha256": "6503c0eadb04bf24d021e8d88451ab20e177b8748ae2a25801f24414a77fa5b8"
+    },
+    {
+      "path": "D:\\PV1Lab\\tools\\tensorrt\\TensorRT-10.10.0.31\\lib\\nvonnxparser_10.dll",
+      "size": 3015200,
+      "sha256": "9162ea70a8de1e69acfa797158accffbdbb969b1670e064cdecae0c463adb4e2"
+    },
+    {
+      "path": "D:\\PV1Lab\\tools\\tensorrt\\TensorRT-10.10.0.31\\lib\\nvinfer_vc_plugin_10.dll",
+      "size": 578592,
+      "sha256": "fbd40187be5ad2f570803a83024eed6e55eb40208dbfb01ee5cd348df9502e51"
+    },
+    {
+      "path": "D:\\PV1Lab\\tools\\tensorrt\\TensorRT-10.10.0.31\\lib\\nvinfer_dispatch_10.dll",
+      "size": 628768,
+      "sha256": "41fca1a9e27da8f91d16398b3319e5287311d4b51bf133750b66a34262717f16"
+    },
+    {
+      "path": "D:\\PV1Lab\\tools\\tensorrt\\TensorRT-10.10.0.31\\lib\\nvonnxparser_10.lib",
+      "size": 2524,
+      "sha256": "9641836c844b4904c6500c315bbf6198ea270cc53f683e9188e167e723278c1c"
+    },
+    {
+      "path": "D:\\PV1Lab\\tools\\tensorrt\\TensorRT-10.10.0.31\\lib\\nvinfer_lean_10.dll",
+      "size": 48046112,
+      "sha256": "c7b272de5bb4ae8379ead0687b431ce9402b4f6542569ebcfcda281b70a2742f"
+    },
+    {
+      "path": "D:\\PV1Lab\\tools\\tensorrt\\TensorRT-10.10.0.31\\lib\\nvinfer_builder_resource_10.dll",
+      "size": 1982740000,
+      "sha256": "b40a8194a32889a8da714011615d3630946113dfe62ae215491c5e33c797f7c2"
+    },
+    {
+      "path": "D:\\PV1Lab\\tools\\tensorrt\\TensorRT-10.10.0.31\\include\\NvInferVersion.h",
+      "size": 1682,
+      "sha256": "a41aa24cf958f6864477f54b6c9e1f2db5a1ad41b6bc47eee0011479d37125e1"
+    },
+    {
+      "path": "D:\\PV1Lab\\tools\\tensorrt\\TensorRT-10.10.0.31\\include\\NvInfer.h",
+      "size": 371286,
+      "sha256": "990de6b237deac985f03b02d06ed1912be01e7d6e1b622921d01668434407046"
+    },
+    {
+      "path": "D:\\PV1Lab\\tools\\tensorrt\\TensorRT-10.10.0.31\\include\\NvInferPluginBase.h",
+      "size": 9224,
+      "sha256": "2e26616f0a3b9c2a9d5da43832c3cc8a856c972965491d1e3b9dbc37211f5b78"
+    },
+    {
+      "path": "D:\\PV1Lab\\tools\\tensorrt\\TensorRT-10.10.0.31\\include\\NvInferRuntimePlugin.h",
+      "size": 45781,
+      "sha256": "4759e3d5e017a93d01436e2b09b124416349e3d4dfc91d4aa9079239571f6697"
+    },
+    {
+      "path": "D:\\PV1Lab\\tools\\tensorrt\\TensorRT-10.10.0.31\\include\\NvInferPluginUtils.h",
+      "size": 10356,
+      "sha256": "367f961bbb3126e59cfd415650d077023f4d7d697d21f3ee92fef8b1b4ec7d28"
+    },
+    {
+      "path": "D:\\PV1Lab\\tools\\tensorrt\\TensorRT-10.10.0.31\\include\\NvOnnxParser.h",
+      "size": 19938,
+      "sha256": "1a69a406c221d80d61ae371a294c8c10e2d505a152c32c63061b349c355b0479"
+    },
+    {
+      "path": "D:\\PV1Lab\\tools\\tensorrt\\TensorRT-10.10.0.31\\include\\NvInferLegacyDims.h",
+      "size": 4190,
+      "sha256": "538db6ed3dfce5fe0121e942e6a20deae21c98d8dc0832e2594acff4fc8a08ec"
+    },
+    {
+      "path": "D:\\PV1Lab\\tools\\tensorrt\\TensorRT-10.10.0.31\\include\\NvInferPlugin.h",
+      "size": 1582,
+      "sha256": "3ab7107afc15e4317a17a57b31d7d42d677091380918bfc2dc45eb4ab38570ad"
+    },
+    {
+      "path": "D:\\PV1Lab\\tools\\tensorrt\\TensorRT-10.10.0.31\\include\\NvInferImpl.h",
+      "size": 57346,
+      "sha256": "61ad168a83a5ed5a5ecf9b884fea529a6d7fbf5ecdb2fa17ab3fa415fd635cf7"
+    },
+    {
+      "path": "D:\\PV1Lab\\tools\\tensorrt\\TensorRT-10.10.0.31\\include\\NvInferRuntimeBase.h",
+      "size": 26569,
+      "sha256": "4998f18227dd1aedcf6b4eeda0e50f00c552ca028062925ab8676d7542c43923"
+    },
+    {
+      "path": "D:\\PV1Lab\\tools\\tensorrt\\TensorRT-10.10.0.31\\include\\NvOnnxConfig.h",
+      "size": 5964,
+      "sha256": "a64a532c86d5ab9e12b009541541ad54531ce39eeecdc53d7b46cb3b7954d746"
+    },
+    {
+      "path": "D:\\PV1Lab\\tools\\tensorrt\\TensorRT-10.10.0.31\\include\\NvInferRuntimeCommon.h",
+      "size": 13551,
+      "sha256": "c2f97d350090f106e995bf4522a89dd19ab0c15441023408ac6bf19fe7506688"
+    },
+    {
+      "path": "D:\\PV1Lab\\tools\\tensorrt\\TensorRT-10.10.0.31\\include\\NvInferRuntime.h",
+      "size": 225053,
+      "sha256": "2e7b0f275a2c6e4d3bd32ab01488ab4168335c279b156f44b12ca4b240e956a0"
+    },
+    {
+      "path": "D:\\PV1Lab\\tools\\tensorrt\\TensorRT-10.10.0.31\\python\\tensorrt_dispatch-10.10.0.31-cp312-none-win_amd64.whl",
+      "size": 622127,
+      "sha256": "677f0cf6ac6a50730e84f36667fa6d463f9f70de6fc68a55f6a81ef2debe80cd"
+    },
+    {
+      "path": "D:\\PV1Lab\\tools\\tensorrt\\TensorRT-10.10.0.31\\python\\tensorrt-10.10.0.31-cp312-none-win_amd64.whl",
+      "size": 868262,
+      "sha256": "2db5d8e87632252a303592238efcaa85a4949f1f979efe7e65c04bf781300d64"
+    },
+    {
+      "path": "D:\\PV1Lab\\tools\\tensorrt\\TensorRT-10.10.0.31\\python\\tensorrt_lean-10.10.0.31-cp312-none-win_amd64.whl",
+      "size": 621956,
+      "sha256": "7ad69f48dcac1db1ca29980ab87f5193d1e433337b481dfea7e065731c0e8bdf"
+    },
+    {
+      "path": "D:\\PV1Lab\\tools\\tensorrt\\TensorRT-10.10.0.31\\python\\include\\impl\\NvInferPythonPlugin.h",
+      "size": 22025,
+      "sha256": "33215d49e14a4d9ae778b838ed4556ff0f642ab1f3336a63d124650bb9c9864a"
+    }
+  ],
+  "selected_zip_crc": "PASS (read all selected members)"
+}

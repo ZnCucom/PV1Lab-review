@@ -1,0 +1,144 @@
+{
+  "box": "PV1Lab_NoLicense",
+  "requested": {
+    "Enabled": [
+      "n"
+    ],
+    "FileRootPath": [
+      "D:\\PV1Lab\\boxes\\PV1Lab_NoLicense"
+    ],
+    "NeverDelete": [
+      "y"
+    ],
+    "DropAdminRights": [
+      "y"
+    ],
+    "RestrictDevices": [
+      "y"
+    ],
+    "OpenClipboard": [
+      "n"
+    ],
+    "BlockScreenCapture": [
+      "y"
+    ],
+    "BlockInterferenceControl": [
+      "y"
+    ],
+    "BlockNetworkFiles": [
+      "y"
+    ],
+    "NetworkAccess": [
+      "Block"
+    ],
+    "ClosedFilePath": [
+      "D:\\Pv1260909",
+      "C:\\Users",
+      "InternetAccessDevices",
+      "D:\\PV1Lab\\control",
+      "D:\\PV1Lab\\scripts",
+      "D:\\PV1Lab\\downloads",
+      "D:\\PV1Lab\\cache",
+      "D:\\PV1Lab\\baselines",
+      "D:\\PV1Lab\\runs",
+      "D:\\PV1Lab\\reports",
+      "D:\\PV1Lab\\exports",
+      "D:\\PV1Lab\\boxes",
+      "D:\\PV1Lab\\tools\\cudart",
+      "D:\\PV1Lab\\tools\\directml",
+      "D:\\PV1Lab\\tools\\llvm",
+      "D:\\PV1Lab\\tools\\nvcc_headers",
+      "D:\\PV1Lab\\tools\\nvrtc",
+      "D:\\PV1Lab\\tools\\ort",
+      "D:\\PV1Lab\\tools\\tensorrt",
+      "D:\\PV1Lab\\tools\\trt_python",
+      "D:\\PV1Lab\\tools\\VS2022BuildTools",
+      "D:\\PV1Lab\\staging\\original",
+      "D:\\PV1Lab\\staging\\own_isolation_probe.exe",
+      "D:\\PV1Lab\\staging\\source"
+    ],
+    "WriteKeyPath": [
+      "HKEY_CURRENT_USER"
+    ],
+    "ClosedIpcPath": [
+      "\\BaseNamedObjects\\PV1Lab_Canary_*"
+    ],
+    "AutoRecover": [
+      "n"
+    ],
+    "AutoDelete": [
+      "n"
+    ]
+  },
+  "query": {
+    "Enabled": [
+      "n"
+    ],
+    "FileRootPath": [
+      "D:\\PV1Lab\\boxes\\PV1Lab_NoLicense"
+    ],
+    "NeverDelete": [
+      "y"
+    ],
+    "DropAdminRights": [
+      "y"
+    ],
+    "RestrictDevices": [
+      "y"
+    ],
+    "OpenClipboard": [
+      "n"
+    ],
+    "BlockScreenCapture": [
+      "y"
+    ],
+    "BlockInterferenceControl": [
+      "y"
+    ],
+    "BlockNetworkFiles": [
+      "y"
+    ],
+    "NetworkAccess": [
+      "Block"
+    ],
+    "ClosedFilePath": [
+      "D:\\Pv1260909",
+      "C:\\Users",
+      "InternetAccessDevices",
+      "D:\\PV1Lab\\control",
+      "D:\\PV1Lab\\scripts",
+      "D:\\PV1Lab\\downloads",
+      "D:\\PV1Lab\\cache",
+      "D:\\PV1Lab\\baselines",
+      "D:\\PV1Lab\\runs",
+      "D:\\PV1Lab\\reports",
+      "D:\\PV1Lab\\exports",
+      "D:\\PV1Lab\\boxes",
+      "D:\\PV1Lab\\tools\\cudart",
+      "D:\\PV1Lab\\tools\\directml",
+      "D:\\PV1Lab\\tools\\llvm",
+      "D:\\PV1Lab\\tools\\nvcc_headers",
+      "D:\\PV1Lab\\tools\\nvrtc",
+      "D:\\PV1Lab\\tools\\ort",
+      "D:\\PV1Lab\\tools\\tensorrt",
+      "D:\\PV1Lab\\tools\\trt_python",
+      "D:\\PV1Lab\\tools\\VS2022BuildTools",
+      "D:\\PV1Lab\\staging\\original",
+      "D:\\PV1Lab\\staging\\own_isolation_probe.exe",
+      "D:\\PV1Lab\\staging\\source"
+    ],
+    "WriteKeyPath": [
+      "HKEY_CURRENT_USER"
+    ],
+    "ClosedIpcPath": [
+      "\\BaseNamedObjects\\PV1Lab_Canary_*"
+    ],
+    "AutoRecover": [
+      "n"
+    ],
+    "AutoDelete": [
+      "n"
+    ]
+  },
+  "qualification": "OWNED_PROBES_ONLY"
+}

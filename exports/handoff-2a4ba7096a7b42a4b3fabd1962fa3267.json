@@ -1,0 +1,25 @@
+{
+  "schema": 1,
+  "gpu": {
+    "cuda": {
+      "status": "PASS",
+      "frames": 24
+    },
+    "cpu": {
+      "status": "PASS",
+      "frames": 24
+    },
+    "dml": {
+      "status": "PASS",
+      "frames": 24
+    },
+    "tensorrt": {
+      "status": "PASS",
+      "frames": 24
+    }
+  },
+  "target_runtime": "NOT_EXECUTED",
+  "license_used": false,
+  "activation_service_accessed": false,
+  "sandbox": "ISOLATION_NOT_QUALIFIED"
+}

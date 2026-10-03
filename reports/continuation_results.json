@@ -1,0 +1,19 @@
+{
+  "timestamp": "2026-09-27T15:44:58.084785+00:00",
+  "installations": "BOTH_EXIT_0_VERIFIED",
+  "msvc_vendor_host": {
+    "status": "PASS",
+    "frames": 24,
+    "cycles": 3,
+    "negative_tests": 6,
+    "mock": false,
+    "vendor_version": 101000,
+    "resources_released": true
+  },
+  "sandbox": "DISABLED_NOT_QUALIFIED",
+  "source_files_rehashed": 16,
+  "source_files_unchanged": true,
+  "gui": "Only empty notification target was exposed; activation failed. Visible wizard not targetable.",
+  "license_used": false,
+  "real_business_service_accessed": false
+}

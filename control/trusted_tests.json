@@ -1,0 +1,358 @@
+{
+  "own_gpu": {
+    "script": "own_gpu_test.py",
+    "sha256": "8a23d0ed73fc8c532c19a74774e0ec9d4873f1a0baca6146bd5fd918285aa615",
+    "timeout": 180,
+    "dependencies": [
+      {
+        "path": "D:\\PV1Lab\\scripts\\own_dml.cpp",
+        "sha256": "5cbfe67ec49d09557e8373849c5daebf74d28602b3158682285bec2f98b5e6da"
+      },
+      {
+        "path": "D:\\PV1Lab\\tools\\nvrtc\\cuda_nvrtc-windows-x86_64-12.9.86-archive\\bin\\nvrtc-builtins64_129.dll",
+        "sha256": "c405226b0b394ed8bdc593bb1419b94a989f93248ed2873e8f2e0e27c1688ca1"
+      },
+      {
+        "path": "D:\\PV1Lab\\tools\\nvrtc\\cuda_nvrtc-windows-x86_64-12.9.86-archive\\bin\\nvrtc64_120_0.alt.dll",
+        "sha256": "ac56a4d3b5a99f294523abec28b8f648b96324a9277622a450ec20ddb9e2c47d"
+      },
+      {
+        "path": "D:\\PV1Lab\\tools\\nvrtc\\cuda_nvrtc-windows-x86_64-12.9.86-archive\\bin\\nvrtc64_120_0.dll",
+        "sha256": "0cc63349fedffeec1660b30955e8028b6e4e4c26cf1e41c56dc4569fd5eca82c"
+      },
+      {
+        "path": "D:\\PV1Lab\\tools\\ort\\runtimes\\win-x64\\native\\onnxruntime.dll",
+        "sha256": "f5131591edac6b0a8090d0e329040a49319d7a689cb5b465235fbf7030fa8027"
+      },
+      {
+        "path": "D:\\PV1Lab\\tools\\ort\\runtimes\\win-x64\\native\\onnxruntime_providers_shared.dll",
+        "sha256": "3b27e1417d12b73a6a34d80414c083e359e092d2f0ce572d7e67be8cdbe9e825"
+      },
+      {
+        "path": "D:\\PV1Lab\\tools\\directml\\bin\\x64-win\\DirectML.dll",
+        "sha256": "9c9e6d822561c6c41b90e6994b3e8857cf1d66dbfb1e0c4c799c7c89b4e92da1"
+      }
+    ]
+  },
+  "owned_child": {
+    "script": "owned_child_test.py",
+    "sha256": "5a943dbc24c0892a18733d2003e790b6fd96abd7bc34a0c657e13de27f36fbec",
+    "timeout": 20
+  },
+  "own_trt": {
+    "script": "own_trt_test.py",
+    "sha256": "3b9a0353c76fee9b5a42bdc1dee919a00120abd08d9b0b5fb83b03fa129871bf",
+    "timeout": 180,
+    "dependencies": [
+      {
+        "path": "D:\\PV1Lab\\tools\\tensorrt\\TensorRT-10.10.0.31\\lib\\nvinfer_10.dll",
+        "sha256": "371e8a32f897dfcd77890cad829c8ea83f544947103e8b8c02ab62113a92d659"
+      },
+      {
+        "path": "D:\\PV1Lab\\tools\\tensorrt\\TensorRT-10.10.0.31\\lib\\nvinfer_builder_resource_10.dll",
+        "sha256": "b40a8194a32889a8da714011615d3630946113dfe62ae215491c5e33c797f7c2"
+      },
+      {
+        "path": "D:\\PV1Lab\\tools\\tensorrt\\TensorRT-10.10.0.31\\lib\\nvinfer_dispatch_10.dll",
+        "sha256": "41fca1a9e27da8f91d16398b3319e5287311d4b51bf133750b66a34262717f16"
+      },
+      {
+        "path": "D:\\PV1Lab\\tools\\tensorrt\\TensorRT-10.10.0.31\\lib\\nvinfer_lean_10.dll",
+        "sha256": "c7b272de5bb4ae8379ead0687b431ce9402b4f6542569ebcfcda281b70a2742f"
+      },
+      {
+        "path": "D:\\PV1Lab\\tools\\tensorrt\\TensorRT-10.10.0.31\\lib\\nvinfer_plugin_10.dll",
+        "sha256": "a1e1624d816857340b265a66a7bca374f017349bc63a182e9e717af5cf54470a"
+      },
+      {
+        "path": "D:\\PV1Lab\\tools\\tensorrt\\TensorRT-10.10.0.31\\lib\\nvinfer_vc_plugin_10.dll",
+        "sha256": "fbd40187be5ad2f570803a83024eed6e55eb40208dbfb01ee5cd348df9502e51"
+      },
+      {
+        "path": "D:\\PV1Lab\\tools\\tensorrt\\TensorRT-10.10.0.31\\lib\\nvonnxparser_10.dll",
+        "sha256": "9162ea70a8de1e69acfa797158accffbdbb969b1670e064cdecae0c463adb4e2"
+      },
+      {
+        "path": "D:\\PV1Lab\\tools\\trt_python\\tensorrt\\__init__.py",
+        "sha256": "35624921f81a7851dc1f53f92f8b68b2fa1788cc9a30181e342b10245f732321"
+      },
+      {
+        "path": "D:\\PV1Lab\\tools\\trt_python\\tensorrt\\tensorrt.cp312-win_amd64.pyd",
+        "sha256": "1d43623aa3e6636e9ed0f1b10c979898faac5da543620a9d2a50c0d294c965b6"
+      },
+      {
+        "path": "D:\\PV1Lab\\tools\\cudart\\cuda_cudart-windows-x86_64-12.9.79-archive\\bin\\cudart64_12.dll",
+        "sha256": "760c38928bbe5759f7b31ed6692599eb7ec83cedd5702e84c2b72028a89837e1"
+      }
+    ]
+  },
+  "owned_vendor": {
+    "script": "owned_vendor_test.py",
+    "sha256": "c50f2c763afaa031b9c2dad44a9a59956d5a93a8b037163220af00503ec6928d",
+    "timeout": 120,
+    "dependencies": [
+      {
+        "path": "D:\\PV1Lab\\staging\\owned-vendor-payload\\vendor_runner.exe",
+        "sha256": "a83830434b76f2f9941c80dfbc11064a08de8ab00bb2bce49c753b4af8579514"
+      },
+      {
+        "path": "D:\\PV1Lab\\staging\\owned-vendor-payload\\pv_trt_vendor.dll",
+        "sha256": "204767ed032a943cda9f93707705de643c30ffec33fef2a3c4a76d0c05d31020"
+      },
+      {
+        "path": "D:\\PV1Lab\\staging\\owned-vendor-payload\\nvinfer_10.dll",
+        "sha256": "371e8a32f897dfcd77890cad829c8ea83f544947103e8b8c02ab62113a92d659"
+      },
+      {
+        "path": "D:\\PV1Lab\\staging\\owned-vendor-payload\\nvinfer_lean_10.dll",
+        "sha256": "c7b272de5bb4ae8379ead0687b431ce9402b4f6542569ebcfcda281b70a2742f"
+      },
+      {
+        "path": "D:\\PV1Lab\\staging\\owned-vendor-payload\\nvinfer_dispatch_10.dll",
+        "sha256": "41fca1a9e27da8f91d16398b3319e5287311d4b51bf133750b66a34262717f16"
+      },
+      {
+        "path": "D:\\PV1Lab\\staging\\owned-vendor-payload\\cudart64_12.dll",
+        "sha256": "760c38928bbe5759f7b31ed6692599eb7ec83cedd5702e84c2b72028a89837e1"
+      },
+      {
+        "path": "D:\\PV1Lab\\staging\\owned-vendor-payload\\owned_affine.engine",
+        "sha256": "e8a882f647c44e781db0707da3c6d678512801c46b8a55044d57b9cb34759ec4"
+      }
+    ]
+  },
+  "standard_suite": {
+    "script": "standard_suite.py",
+    "sha256": "abd54d4341c1c6165a3e1c0ca4d9c7812bb06e5717729b3927efcf4319872e39",
+    "timeout": 620,
+    "dependencies": [
+      {
+        "path": "D:\\PV1Lab\\staging\\owned-standard-payload\\vendor_runner.exe",
+        "sha256": "a83830434b76f2f9941c80dfbc11064a08de8ab00bb2bce49c753b4af8579514"
+      },
+      {
+        "path": "D:\\PV1Lab\\staging\\owned-standard-payload\\pv_trt_vendor.dll",
+        "sha256": "204767ed032a943cda9f93707705de643c30ffec33fef2a3c4a76d0c05d31020"
+      },
+      {
+        "path": "D:\\PV1Lab\\staging\\owned-standard-payload\\nvinfer_10.dll",
+        "sha256": "371e8a32f897dfcd77890cad829c8ea83f544947103e8b8c02ab62113a92d659"
+      },
+      {
+        "path": "D:\\PV1Lab\\staging\\owned-standard-payload\\nvinfer_lean_10.dll",
+        "sha256": "c7b272de5bb4ae8379ead0687b431ce9402b4f6542569ebcfcda281b70a2742f"
+      },
+      {
+        "path": "D:\\PV1Lab\\staging\\owned-standard-payload\\nvinfer_dispatch_10.dll",
+        "sha256": "41fca1a9e27da8f91d16398b3319e5287311d4b51bf133750b66a34262717f16"
+      },
+      {
+        "path": "D:\\PV1Lab\\staging\\owned-standard-payload\\cudart64_12.dll",
+        "sha256": "760c38928bbe5759f7b31ed6692599eb7ec83cedd5702e84c2b72028a89837e1"
+      },
+      {
+        "path": "D:\\PV1Lab\\staging\\owned-standard-payload\\owned_affine.engine",
+        "sha256": "e8a882f647c44e781db0707da3c6d678512801c46b8a55044d57b9cb34759ec4"
+      },
+      {
+        "path": "D:\\PV1Lab\\staging\\owned-standard-payload\\standard_probe.exe",
+        "sha256": "13c6f92619bb1c1b1f481d181b5c7a7bd287d878cc946edb1f473827cb2c7411"
+      },
+      {
+        "sha256": "731424c76baabe4ce532ce58bbb0801846fe08e8354cb7ca665a8d2bc98736d8",
+        "path": "D:\\PV1Lab\\control\\standard_box.json"
+      }
+    ]
+  },
+  "standard_ui": {
+    "script": "ui_suite.py",
+    "sha256": "49fbbe3d74d1cde59ca8fb31013e21a50794c1b4efd5e51dbe9b8ca11fe9b3a9",
+    "timeout": 110,
+    "dependencies": [
+      {
+        "path": "D:\\PV1Lab\\staging\\owned-standard-payload\\ui_canary.exe",
+        "sha256": "450aaa7fdf2a1cb1141cacbc4e17ede7d06c98bf469fdaadab5ae5212893bcfb"
+      }
+    ]
+  },
+  "standard_gpu_diag": {
+    "dependencies": [
+      {
+        "sha256": "b79e93c45a684286bd89139e7eba53592693ad9ff84f08f12fb338a9f50b7f1e",
+        "path": "D:\\PV1Lab\\staging\\owned-standard-payload\\cuda_trt_diag.exe"
+      }
+    ],
+    "script": "standard_gpu_diag.py",
+    "sha256": "47217c956c02312fa2d636a30d7dd33309bd17b3de1dcbe4753a9b71dc73fd23",
+    "timeout": 100
+  },
+  "driver_comparison": {
+    "timeout": 120,
+    "script": "run_driver_probe.py",
+    "sha256": "f8104ec1787245ff96ca2f160622db037a3374d5e817195f82314980f83c2c99",
+    "dependencies": [
+      {
+        "sha256": "7ff5450d65ab2f009111a215606190653fd5ebd3f56fd4034877d3def4aa5153",
+        "path": "D:\\PV1Lab\\staging\\owned-standard-payload\\driver_probe.exe"
+      }
+    ]
+  },
+  "standard_revalidate": {
+    "script": "standard_revalidate.py",
+    "sha256": "62960e2ec344454d3dbf4050f052c2d90320fd6ebf1c6b71bf3ea204b9f73c56",
+    "timeout": 210,
+    "dependencies": [
+      {
+        "path": "D:\\PV1Lab\\staging\\owned-standard-payload\\vendor_runner.exe",
+        "sha256": "a83830434b76f2f9941c80dfbc11064a08de8ab00bb2bce49c753b4af8579514"
+      },
+      {
+        "path": "D:\\PV1Lab\\staging\\owned-standard-payload\\pv_trt_vendor.dll",
+        "sha256": "204767ed032a943cda9f93707705de643c30ffec33fef2a3c4a76d0c05d31020"
+      },
+      {
+        "path": "D:\\PV1Lab\\staging\\owned-standard-payload\\nvinfer_10.dll",
+        "sha256": "371e8a32f897dfcd77890cad829c8ea83f544947103e8b8c02ab62113a92d659"
+      },
+      {
+        "path": "D:\\PV1Lab\\staging\\owned-standard-payload\\nvinfer_lean_10.dll",
+        "sha256": "c7b272de5bb4ae8379ead0687b431ce9402b4f6542569ebcfcda281b70a2742f"
+      },
+      {
+        "path": "D:\\PV1Lab\\staging\\owned-standard-payload\\nvinfer_dispatch_10.dll",
+        "sha256": "41fca1a9e27da8f91d16398b3319e5287311d4b51bf133750b66a34262717f16"
+      },
+      {
+        "path": "D:\\PV1Lab\\staging\\owned-standard-payload\\cudart64_12.dll",
+        "sha256": "760c38928bbe5759f7b31ed6692599eb7ec83cedd5702e84c2b72028a89837e1"
+      },
+      {
+        "path": "D:\\PV1Lab\\staging\\owned-standard-payload\\owned_affine.engine",
+        "sha256": "e8a882f647c44e781db0707da3c6d678512801c46b8a55044d57b9cb34759ec4"
+      },
+      {
+        "path": "D:\\PV1Lab\\staging\\owned-standard-payload\\standard_probe.exe",
+        "sha256": "13c6f92619bb1c1b1f481d181b5c7a7bd287d878cc946edb1f473827cb2c7411"
+      },
+      {
+        "sha256": "731424c76baabe4ce532ce58bbb0801846fe08e8354cb7ca665a8d2bc98736d8",
+        "path": "D:\\PV1Lab\\control\\standard_box.json"
+      }
+    ]
+  },
+  "native_snapshot_before": {
+    "script": "native_snapshot_before.py",
+    "sha256": "5486895b03974afd71355ba8e035aea42bcdd4c6a4c0fdc4be61f9092e3101f9",
+    "timeout": 90,
+    "dependencies": [
+      {
+        "path": "D:\\PV1Lab\\scripts\\native_snapshot_test.py",
+        "sha256": "04ec9ac53cf84c76b96ee3a3fc20f2a35d16e0f256d8457e0b5f2551e065b4d9"
+      },
+      {
+        "path": "D:\\PV1Lab\\control\\standard_box.json",
+        "sha256": "731424c76baabe4ce532ce58bbb0801846fe08e8354cb7ca665a8d2bc98736d8"
+      },
+      {
+        "path": "D:\\PV1Lab\\staging\\owned-standard-payload\\standard_probe.exe",
+        "sha256": "13c6f92619bb1c1b1f481d181b5c7a7bd287d878cc946edb1f473827cb2c7411"
+      },
+      {
+        "path": "D:\\PV1Lab\\reports\\raw_device_rule_fix.json",
+        "sha256": "efeb18ef68716c4877e4c6c474ef97906113db128079a198a7da2864b18ba6e6"
+      }
+    ]
+  },
+  "native_snapshot_mutate": {
+    "script": "native_snapshot_mutate.py",
+    "sha256": "b4bb53dd8d6a8043178427eaa0856d64c2252799416e83f4402a34498a2c82cc",
+    "timeout": 90,
+    "dependencies": [
+      {
+        "path": "D:\\PV1Lab\\scripts\\native_snapshot_test.py",
+        "sha256": "04ec9ac53cf84c76b96ee3a3fc20f2a35d16e0f256d8457e0b5f2551e065b4d9"
+      },
+      {
+        "path": "D:\\PV1Lab\\control\\standard_box.json",
+        "sha256": "731424c76baabe4ce532ce58bbb0801846fe08e8354cb7ca665a8d2bc98736d8"
+      },
+      {
+        "path": "D:\\PV1Lab\\staging\\owned-standard-payload\\standard_probe.exe",
+        "sha256": "13c6f92619bb1c1b1f481d181b5c7a7bd287d878cc946edb1f473827cb2c7411"
+      },
+      {
+        "path": "D:\\PV1Lab\\reports\\raw_device_rule_fix.json",
+        "sha256": "efeb18ef68716c4877e4c6c474ef97906113db128079a198a7da2864b18ba6e6"
+      }
+    ]
+  },
+  "native_snapshot_verify": {
+    "script": "native_snapshot_verify.py",
+    "sha256": "c187a6953642f0d9dc6665b47c4b67f31624c37091a72ef55a3a3773253eb63f",
+    "timeout": 90,
+    "dependencies": [
+      {
+        "path": "D:\\PV1Lab\\scripts\\native_snapshot_test.py",
+        "sha256": "04ec9ac53cf84c76b96ee3a3fc20f2a35d16e0f256d8457e0b5f2551e065b4d9"
+      },
+      {
+        "path": "D:\\PV1Lab\\control\\standard_box.json",
+        "sha256": "731424c76baabe4ce532ce58bbb0801846fe08e8354cb7ca665a8d2bc98736d8"
+      },
+      {
+        "path": "D:\\PV1Lab\\staging\\owned-standard-payload\\standard_probe.exe",
+        "sha256": "13c6f92619bb1c1b1f481d181b5c7a7bd287d878cc946edb1f473827cb2c7411"
+      },
+      {
+        "path": "D:\\PV1Lab\\reports\\raw_device_rule_fix.json",
+        "sha256": "efeb18ef68716c4877e4c6c474ef97906113db128079a198a7da2864b18ba6e6"
+      }
+    ]
+  },
+  "peripheral": {
+    "script": "peripheral_test.py",
+    "sha256": "77abce8c3469bda88d2534e36e159a526fd4702b0456469f44bab6f2da86b28e",
+    "timeout": 90,
+    "dependencies": [
+      {
+        "path": "D:\\PV1Lab\\scripts\\native_snapshot_test.py",
+        "sha256": "04ec9ac53cf84c76b96ee3a3fc20f2a35d16e0f256d8457e0b5f2551e065b4d9"
+      },
+      {
+        "path": "D:\\PV1Lab\\control\\standard_box.json",
+        "sha256": "731424c76baabe4ce532ce58bbb0801846fe08e8354cb7ca665a8d2bc98736d8"
+      },
+      {
+        "path": "D:\\PV1Lab\\staging\\owned-standard-payload\\peripheral_probe.exe",
+        "sha256": "21b7f68edc97be656df8d3c6ccb427d24b22d751a0172ca1841f7d204877677f"
+      },
+      {
+        "path": "D:\\PV1Lab\\reports\\raw_device_rule_fix.json",
+        "sha256": "efeb18ef68716c4877e4c6c474ef97906113db128079a198a7da2864b18ba6e6"
+      }
+    ]
+  },
+  "capture_capability": {
+    "script": "capture_capability_test.py",
+    "sha256": "6c2800455d6710121e6386aacf9e46946ca1e13cb4ddccc2b96b328c6a8655ae",
+    "timeout": 90,
+    "dependencies": [
+      {
+        "path": "D:\\PV1Lab\\scripts\\native_snapshot_test.py",
+        "sha256": "04ec9ac53cf84c76b96ee3a3fc20f2a35d16e0f256d8457e0b5f2551e065b4d9"
+      },
+      {
+        "path": "D:\\PV1Lab\\control\\standard_box.json",
+        "sha256": "731424c76baabe4ce532ce58bbb0801846fe08e8354cb7ca665a8d2bc98736d8"
+      },
+      {
+        "path": "D:\\PV1Lab\\staging\\owned-standard-payload\\capture_capability_probe.exe",
+        "sha256": "df19920ad8c672914700b1a71cb76f8d52c529fc02845fb4eec9ad9ebdf58ad5"
+      },
+      {
+        "path": "D:\\PV1Lab\\reports\\raw_device_rule_fix.json",
+        "sha256": "efeb18ef68716c4877e4c6c474ef97906113db128079a198a7da2864b18ba6e6"
+      }
+    ]
+  }
+}

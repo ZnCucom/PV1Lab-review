@@ -1,0 +1,11 @@
+{
+  "command": "C:\\Program Files\\Git\\cmd\\git.exe -c core.hooksPath=NUL -c init.templateDir= -c credential.helper= clone --no-checkout --no-recurse-submodules https://github.com/zhaoxuya520/reverse-skill.git D:\\PV1Lab\\control\\reverse-workspace\\vendor\\reverse-skill",
+  "exit_code": 0,
+  "stderr": "Cloning into vendor/reverse-skill...",
+  "user_approval": "Current conversation: user said 批准 to exact acquisition command",
+  "verified_commit": "cab634bd855fc287f6e420c1f36fd1a6b9245960",
+  "verified_tree": "83fb489b20c3ea002e482ac8c39f52316633d49a",
+  "commit_timestamp_utc": "2026-09-22T05:18:45Z",
+  "working_tree_materialized": false,
+  "upstream_scripts_executed": false
+}

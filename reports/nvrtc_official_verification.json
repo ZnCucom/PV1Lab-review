@@ -1,0 +1,10 @@
+{
+  "url": "https://developer.download.nvidia.com/compute/cuda/redist/redistrib_12.9.1.json",
+  "nvrtc": {
+    "relative_path": "cuda_nvrtc/windows-x86_64/cuda_nvrtc-windows-x86_64-12.9.86-archive.zip",
+    "sha256": "1aa0644fa53c8ca34cdc73db17bcc73530557bdd3f582c7bfdbd7916c8b48f65",
+    "md5": "76317f5006ce9de6720cea0b3bdc7db6",
+    "size": "314608748"
+  },
+  "match": true
+}

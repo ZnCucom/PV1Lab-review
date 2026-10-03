@@ -1,0 +1,6 @@
+driver_version=0 cudaSuccess: no error
+driver_version_value=0
+get_count=35 cudaErrorInsufficientDriver: CUDA driver version is insufficient for CUDA runtime version
+count=-1
+get_device=35 cudaErrorInsufficientDriver: CUDA driver version is insufficient for CUDA runtime version
+device=-1

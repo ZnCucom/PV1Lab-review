@@ -1,0 +1,16 @@
+{
+  "schema": 1,
+  "parent_workspace_id": "abc0b5b9-f529-47a0-9479-b65924072bf6",
+  "root": "D:\\PV1Lab\\control\\reverse-workspace",
+  "purpose": "reverse-skill controlled audit and project overlay preparation",
+  "protected_root": "D:\\Pv1260909",
+  "main_source": "D:\\Pv1260909\\_reverse_work\\reconstructed\\native",
+  "created_local_date": "2026-10-03",
+  "target_execution_enabled": false,
+  "target_control_directory_access": "PROCEDURAL_PROHIBITION; NOT_ENFORCED_NOT_TESTED",
+  "writes": "new independent ordinary files under this root only",
+  "pilot_status": "NOT_RUN",
+  "upstream_acquisition": "APPROVED_CLONE_COMPLETED",
+  "review_sync": "PAUSE_COMMAND_RUN; WORKSPACE_NOT_REGISTERED; PAUSE_NOT_CONFIRMED; REMOTE_UNKNOWN",
+  "source_audit": "TARGETED_SOURCE_REVIEW_COMPLETE"
+}

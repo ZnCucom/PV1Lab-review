@@ -1,0 +1,9 @@
+{
+  "status": "PASS",
+  "frames": 24,
+  "cycles": 3,
+  "negative_tests": 6,
+  "mock": false,
+  "vendor_version": 101000,
+  "resources_released": true
+}

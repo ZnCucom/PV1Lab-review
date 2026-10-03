@@ -1,0 +1,7 @@
+{
+  "command": "Python -B -X utf8 C:\\Users\\REDACTED_USER\\.codex\\skills\\.system\\skill-creator\\scripts\\quick_validate.py D:\\PV1Lab\\control\\reverse-workspace\\drafts\\pv1-reverse",
+  "exit_code": 1,
+  "output": "Traceback (most recent call last):\n  File \"C:\\Users\\REDACTED_USER\\.codex\\skills\\.system\\skill-creator\\scripts\\quick_validate.py\", line 10, in <module>\n    import yaml\nModuleNotFoundError: No module named 'yaml'",
+  "scope": "Draft skill frontmatter only; upstream and behavior NOT_RUN",
+  "codex_loaded": false
+}

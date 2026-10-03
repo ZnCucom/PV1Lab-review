@@ -1,0 +1,17 @@
+*.exe
+*.dll
+*.pdb
+*.zip
+*.7z
+*.onnx
+*.engine
+*.dmp
+.env*
+__pycache__/
+vendor/
+tools/
+boxes/
+runs/
+cache/
+downloads/
+staging/

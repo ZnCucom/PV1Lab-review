@@ -1,0 +1,15 @@
+{
+  "schema": 1,
+  "workspace_id": "abc0b5b9-f529-47a0-9479-b65924072bf6",
+  "root": "D:\\PV1Lab",
+  "created_utc": "2026-09-27T14:43:29.4107163Z",
+  "protected_root": "D:\\Pv1260909",
+  "observed_source": "D:\\Pv1260909\\_reverse_work\\reconstructed\\native",
+  "requested_source": "D:\\Pv1260909\\_reverse\\_work\\reconstructed\\native",
+  "source_path_confirmation": "USER_CONFIRMED",
+  "license_rule": "USER_CONFIRMED: same-device multiple activation, unbinding, reactivation; count and server verification unknown",
+  "target_execution_enabled": false,
+  "runtime_filesystem_enforcement": "UNRESTRICTED: procedure only",
+  "preexisting_content": [],
+  "main_source": "D:\\Pv1260909\\_reverse_work\\reconstructed\\native"
+}

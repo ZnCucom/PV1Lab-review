@@ -1,0 +1,17 @@
+{
+  "updated_utc": "2026-09-27T15:44:58.084785+00:00",
+  "L01": "PASS_WITHIN_REHASHED_SCOPE",
+  "L02": "PREVIOUS_MANAGEMENT_TESTS_PASS_NO_RETEST_NEEDED",
+  "L03": "REAL_MSVC_VENDOR_BUILD_AND_OWN_ENGINE_HOST_RUNTIME_PASS",
+  "L04": "ISOLATION_NOT_QUALIFIED: supporter timed termination + incomplete device/desktop/clipboard/native-snapshot tests",
+  "L05": "NOT_READY",
+  "L06": "NOT_EXECUTED",
+  "stop_reason": "USER_INSTRUCTED_STOP_IF_GUI_UNCONTROLLABLE",
+  "target_execution_enabled": false,
+  "license_used": false,
+  "real_business_service_accessed": false,
+  "sandbox_gpu": "NOT_RUN",
+  "sandbox_native_snapshot": "NOT_RUN",
+  "sandbox_enabled": false,
+  "sandbox_active_processes_at_disable": 0
+}

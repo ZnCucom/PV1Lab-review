@@ -1,0 +1,2 @@
+SYNTHETIC reviewer fixture; not PV1 evidence.
+TAMPERED IN DISPOSABLE FIXTURE ONLY

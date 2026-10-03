@@ -1,0 +1,17 @@
+[
+  {
+    "Id": 35788,
+    "ProcessName": "SandboxieDcomLaunch",
+    "Path": "D:\\PV1Lab\\tools\\Sandboxie-Plus\\SandboxieDcomLaunch.exe"
+  },
+  {
+    "Id": 49092,
+    "ProcessName": "SandboxieRpcSs",
+    "Path": "D:\\PV1Lab\\tools\\Sandboxie-Plus\\SandboxieRpcSs.exe"
+  },
+  {
+    "Id": 51036,
+    "ProcessName": "Start",
+    "Path": "D:\\PV1Lab\\tools\\Sandboxie-Plus\\Start.exe"
+  }
+]

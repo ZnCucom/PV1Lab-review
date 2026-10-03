@@ -1,0 +1,37 @@
+[
+  {
+    "Path": "D:\\PV1Lab\\tools\\tensorrt\\TensorRT-10.10.0.31\\lib\\nvinfer_10.dll",
+    "Status": "Valid",
+    "Signer": "CN=NVIDIA Corporation, OU=2-J, O=NVIDIA Corporation, L=Santa Clara, S=California, C=US"
+  },
+  {
+    "Path": "D:\\PV1Lab\\tools\\tensorrt\\TensorRT-10.10.0.31\\lib\\nvinfer_builder_resource_10.dll",
+    "Status": "Valid",
+    "Signer": "CN=NVIDIA Corporation, OU=2-J, O=NVIDIA Corporation, L=Santa Clara, S=California, C=US"
+  },
+  {
+    "Path": "D:\\PV1Lab\\tools\\tensorrt\\TensorRT-10.10.0.31\\lib\\nvinfer_dispatch_10.dll",
+    "Status": "Valid",
+    "Signer": "CN=NVIDIA Corporation, OU=2-J, O=NVIDIA Corporation, L=Santa Clara, S=California, C=US"
+  },
+  {
+    "Path": "D:\\PV1Lab\\tools\\tensorrt\\TensorRT-10.10.0.31\\lib\\nvinfer_lean_10.dll",
+    "Status": "Valid",
+    "Signer": "CN=NVIDIA Corporation, OU=2-J, O=NVIDIA Corporation, L=Santa Clara, S=California, C=US"
+  },
+  {
+    "Path": "D:\\PV1Lab\\tools\\tensorrt\\TensorRT-10.10.0.31\\lib\\nvinfer_plugin_10.dll",
+    "Status": "Valid",
+    "Signer": "CN=NVIDIA Corporation, OU=2-J, O=NVIDIA Corporation, L=Santa Clara, S=California, C=US"
+  },
+  {
+    "Path": "D:\\PV1Lab\\tools\\tensorrt\\TensorRT-10.10.0.31\\lib\\nvinfer_vc_plugin_10.dll",
+    "Status": "Valid",
+    "Signer": "CN=NVIDIA Corporation, OU=2-J, O=NVIDIA Corporation, L=Santa Clara, S=California, C=US"
+  },
+  {
+    "Path": "D:\\PV1Lab\\tools\\tensorrt\\TensorRT-10.10.0.31\\lib\\nvonnxparser_10.dll",
+    "Status": "Valid",
+    "Signer": "CN=NVIDIA Corporation, OU=2-J, O=NVIDIA Corporation, L=Santa Clara, S=California, C=US"
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "path": "D:\\PV1Lab\\staging\\owned-vendor-payload\\vendor_runner.exe",
+    "sha256": "a83830434b76f2f9941c80dfbc11064a08de8ab00bb2bce49c753b4af8579514",
+    "source": "D:\\PV1Lab\\runs\\87482c17836c48b4a4240b3ccd61fc21\\build\\vendor_runner.exe"
+  },
+  {
+    "path": "D:\\PV1Lab\\staging\\owned-vendor-payload\\pv_trt_vendor.dll",
+    "sha256": "204767ed032a943cda9f93707705de643c30ffec33fef2a3c4a76d0c05d31020",
+    "source": "D:\\PV1Lab\\runs\\87482c17836c48b4a4240b3ccd61fc21\\build\\pv_trt_vendor.dll"
+  },
+  {
+    "path": "D:\\PV1Lab\\staging\\owned-vendor-payload\\nvinfer_10.dll",
+    "sha256": "371e8a32f897dfcd77890cad829c8ea83f544947103e8b8c02ab62113a92d659",
+    "source": "D:\\PV1Lab\\tools\\tensorrt\\TensorRT-10.10.0.31\\lib\\nvinfer_10.dll"
+  },
+  {
+    "path": "D:\\PV1Lab\\staging\\owned-vendor-payload\\nvinfer_lean_10.dll",
+    "sha256": "c7b272de5bb4ae8379ead0687b431ce9402b4f6542569ebcfcda281b70a2742f",
+    "source": "D:\\PV1Lab\\tools\\tensorrt\\TensorRT-10.10.0.31\\lib\\nvinfer_lean_10.dll"
+  },
+  {
+    "path": "D:\\PV1Lab\\staging\\owned-vendor-payload\\nvinfer_dispatch_10.dll",
+    "sha256": "41fca1a9e27da8f91d16398b3319e5287311d4b51bf133750b66a34262717f16",
+    "source": "D:\\PV1Lab\\tools\\tensorrt\\TensorRT-10.10.0.31\\lib\\nvinfer_dispatch_10.dll"
+  },
+  {
+    "path": "D:\\PV1Lab\\staging\\owned-vendor-payload\\cudart64_12.dll",
+    "sha256": "760c38928bbe5759f7b31ed6692599eb7ec83cedd5702e84c2b72028a89837e1",
+    "source": "D:\\PV1Lab\\tools\\cudart\\cuda_cudart-windows-x86_64-12.9.79-archive\\bin\\cudart64_12.dll"
+  },
+  {
+    "path": "D:\\PV1Lab\\staging\\owned-vendor-payload\\owned_affine.engine",
+    "sha256": "e8a882f647c44e781db0707da3c6d678512801c46b8a55044d57b9cb34759ec4",
+    "source": "D:\\PV1Lab\\runs\\5161a7a3054442bc810f3522bf6fc52a\\build\\owned_affine.engine"
+  }
+]

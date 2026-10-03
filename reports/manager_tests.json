@@ -1,0 +1,118 @@
+{
+  "results": [
+    {
+      "test": "ordinary snapshot restore",
+      "result": "PASS"
+    },
+    {
+      "test": "fake run ID",
+      "result": "PASS",
+      "refusal": "invalid run/snapshot ID"
+    },
+    {
+      "test": "unregistered UUID",
+      "result": "PASS",
+      "refusal": "unregistered run"
+    },
+    {
+      "test": "outside",
+      "result": "PASS",
+      "refusal": "path outside registered parent"
+    },
+    {
+      "test": "prefix collision",
+      "result": "PASS",
+      "refusal": "path outside registered parent"
+    },
+    {
+      "test": "parent traversal",
+      "result": "PASS",
+      "refusal": "ambiguous component"
+    },
+    {
+      "test": "UNC",
+      "result": "PASS",
+      "refusal": "unsupported absolute path"
+    },
+    {
+      "test": "device",
+      "result": "PASS",
+      "refusal": "unsupported absolute path"
+    },
+    {
+      "test": "ADS",
+      "result": "PASS",
+      "refusal": "unsupported absolute path"
+    },
+    {
+      "test": "short",
+      "result": "PASS",
+      "refusal": "short/alternate path rejected"
+    },
+    {
+      "test": "trailing dot",
+      "result": "PASS",
+      "refusal": "ambiguous component"
+    },
+    {
+      "test": "root cleanup path",
+      "result": "PASS",
+      "refusal": "path outside registered parent"
+    },
+    {
+      "test": "missing restore baseline",
+      "result": "PASS",
+      "refusal": "[WinError 2] The system cannot find the file specified: 'D:\\\\PV1Lab\\\\baselines\\\\bc0c9b03c3bb49f8ab57ce6d7e0e2683'"
+    },
+    {
+      "test": "active process record",
+      "result": "PASS",
+      "refusal": "active/unresolved process ownership; preserve run"
+    },
+    {
+      "test": "restore active process",
+      "result": "PASS",
+      "refusal": "active/unresolved process ownership; preserve run"
+    },
+    {
+      "test": "wrong workspace ID marker",
+      "result": "PASS",
+      "refusal": "run ownership mismatch"
+    },
+    {
+      "test": "hardlink object",
+      "result": "PASS",
+      "refusal": "hardlink after open"
+    },
+    {
+      "test": "junction traversal",
+      "result": "PASS",
+      "refusal": "reparse rejected after open"
+    },
+    {
+      "test": "open file resource",
+      "result": "PASS",
+      "refusal": "[WinError 32] The process cannot access the file because it is being used by another process."
+    },
+    {
+      "test": "rename while pinned",
+      "result": "PASS",
+      "refusal": "[WinError 5] Access is denied: 'D:\\\\PV1Lab\\\\runs\\\\5840eb27ac764544a29557a5a633b6a5' -> 'D:\\\\PV1Lab\\\\runs\\\\5840eb27ac764544a29557a5a633b6a5-replacement'"
+    },
+    {
+      "test": "ADS discovered on object",
+      "result": "PASS",
+      "refusal": "alternate data stream rejected"
+    },
+    {
+      "test": "cleanup preview",
+      "result": "PASS"
+    },
+    {
+      "test": "registered deletion and protected canary survival",
+      "result": "PASS"
+    }
+  ],
+  "count": 23,
+  "scope": "self-authored canaries; no original mutations"
+}

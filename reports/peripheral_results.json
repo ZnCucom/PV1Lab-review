@@ -1,0 +1,22 @@
+{
+  "probe": {
+    "clipboard_open": 1,
+    "unicode_format_available": 1,
+    "clipboard_data_handle_available": 0,
+    "physical_drive_0_open_error": 5,
+    "physical_drive_1_open_error": 5,
+    "complete": true
+  },
+  "host_before": {
+    "unicode_available": true,
+    "sequence": 551
+  },
+  "host_after": {
+    "unicode_available": true,
+    "sequence": 551
+  },
+  "scope": "API handle presence and format metadata only; never read or change clipboard content, disk bytes, real input or screen",
+  "run_id": "5345d3540ea54ee6825a9968cf705f47",
+  "box_active_processes": 0,
+  "status": "PASS"
+}

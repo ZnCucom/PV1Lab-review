@@ -1,0 +1,16 @@
+{
+  "sbie_loaded": true,
+  "host_process_open_error": 0,
+  "handle_query_status": 0,
+  "host_process_granted_access": 0,
+  "host_window_title_length": 0,
+  "host_canary_title_matched": false,
+  "send_message_succeeded": false,
+  "send_message_error": 1400,
+  "own_window_print_succeeded": false,
+  "host": {
+    "host_messages_received": 0,
+    "window_destroyed": true
+  },
+  "scope": "Own synthetic window only; no real keyboard events, desktop pixels, clipboard contents or other user windows read"
+}

@@ -1,0 +1,28 @@
+{
+  "result": "PASS_WITHIN_TESTED_SCOPE",
+  "checks": [
+    "syntax:finalize_validation.py",
+    "syntax:lab.py",
+    "syntax:owned_child_test.py",
+    "syntax:own_gpu_test.py",
+    "syntax:own_trt_test.py",
+    "syntax:prepare_inputs.py",
+    "syntax:prepare_trt.py",
+    "syntax:test_manager.py",
+    "syntax:test_process_export.py",
+    "syntax:validate_handoff.py",
+    "syntax:write_reports.py",
+    "control JSON parsed",
+    "required ordinary roots checked",
+    "all registered jobs terminal",
+    "trusted source/dependency hashes",
+    "protected input hashes unchanged",
+    "staging independent bytes",
+    "installer published digest + valid signatures",
+    "unsigned cudart official archive hash and member match",
+    "fixed-version candidate keys",
+    "boxes empty / target disabled"
+  ],
+  "original_execution": false,
+  "main_tree_whole_hash_verified": false
+}
